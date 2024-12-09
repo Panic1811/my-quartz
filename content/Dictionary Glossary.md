@@ -6,23 +6,23 @@
 
 > [!scientific]- Politics
 > 
->  | Word         |
-> | ------------ |
-> | Ratification |
-> | UNRWA        |
+>  | Word                                                  |
+> | ----------------------------------------------------- |
+> | [[Dictionary/Politics/Ratification\|Ratification]] |
+> | [[Dictionary/Politics/UNRWA\|UNRWA]]               |
 > 
 
 > [!info]- Economics
 > 
->  | Word                       |
-> | -------------------------- |
-> | Consumer Price Index (CPI) |
-> | Deflation                  |
-> | Economic Rent              |
-> | GDP                        |
-> | Loss leader                |
-> | Rent-seeking               |
-> | Stagflation                |
+>  | Word                                                                               |
+> | ---------------------------------------------------------------------------------- |
+> | [[Dictionary/Economics/Consumer Price Index (CPI)\|Consumer Price Index (CPI)]] |
+> | [[Dictionary/Economics/Deflation\|Deflation]]                                   |
+> | [[Dictionary/Economics/Economic Rent\|Economic Rent]]                           |
+> | [[Dictionary/Economics/GDP\|GDP]]                                               |
+> | [[Dictionary/Economics/Loss leader\|Loss leader]]                               |
+> | [[Dictionary/Economics/Rent-seeking\|Rent-seeking]]                             |
+> | [[Dictionary/Economics/Stagflation\|Stagflation]]                               |
 > 
 
 
