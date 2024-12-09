@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <ul>
           <li>
             <em>
-              <a href="vedantbali.com">Vedant Bali</a> © 2024
+              <a href="https://panic1811.github.io/GeoMapGuesser/">Map Game</a> © 2024
             </em>
           </li>
         </ul>
