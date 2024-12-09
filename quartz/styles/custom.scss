@@ -148,8 +148,8 @@ a.tag-link {
 // Tracker Table Styles
 
 :root[saved-theme="dark"] {
-  --cards-background-hover: #282828;
-  --image-muted: 0.8;
+  --cards-background-hover: rgba(58, 58, 58, 0.537);
+  --image-muted: 0.9;
 }
 
 :root[saved-theme="light"] {
@@ -165,8 +165,8 @@ a.tag-link {
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 
   --cards-background: transparent;
-  --cards-border: #282726;
-  --cards-border-hover: rgb(61, 69, 68);
+  --cards-border: #484848;
+  --cards-border-hover: rgb(138, 138, 138);
   --border-width: 1px;
 
   @media all and (max-width: 500px) {
@@ -244,6 +244,10 @@ a.tag-link {
         >td {
           white-space: initial;
           flex: 1 1 0;
+          text-align: center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
 
           &:not(:last-child) {
             border-bottom: 1px solid var(--cards-border);

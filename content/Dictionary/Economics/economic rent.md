@@ -1,5 +1,5 @@
 ---
-{"tags":["economics"],"publish":true,"PassFrontmatter":true}
+{"tags":["economics"],"publish":true,"definition":"Economic rent is the income earned by a factor of production in excess of its opportunity cost, or the minimum amount required to keep it in its current use.","PassFrontmatter":true}
 ---
 
 ### Economic Rent

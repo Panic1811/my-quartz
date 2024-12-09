@@ -35,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
     Component.BackToTop()
   ],
 }
