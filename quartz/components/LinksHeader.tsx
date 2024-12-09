@@ -11,20 +11,16 @@ export default (() => {
       <div>
         <div id="links-header">
           <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Card%20index/Color/card_index_color.svg"></img>
-            <a href="https://camargomau.com/">Blog</a>
-          </span>
-          <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg"></img>
-            <a href="/Sciujo/MAC/MAC">MAC</a>
+            <a href="https://vedantbali.com/Dictionary/">Dictionary</a>
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg"></img>
-            <a href="/Sciujo/Sciujo">Learn</a>
+            <a href="https://vedantbali.com/Knowledge/Glossary">Learn</a>
           </span>
           <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Parrot/Color/parrot_color.svg"></img>
-            <a href="/Lingvujo/Lingvujo">Langs</a>
+            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Movie%20camera/Color/movie_camera_color.svg"></img>
+            <a href="https://vedantbali.com/Media-Review/">Reviews</a>
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Triangular%20ruler/Color/triangular_ruler_color.svg"></img>

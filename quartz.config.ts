@@ -49,7 +49,7 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),
       Plugin.Latex(),
       Plugin.CreatedModifiedDate({
-        priority: ["filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["frontmatter", "filesystem", "git"]// you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
