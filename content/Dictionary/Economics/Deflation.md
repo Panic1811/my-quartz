@@ -1,5 +1,5 @@
 ---
-{"tags":["#economics"],"publish":true,"PassFrontmatter":true}
+{"tags":["#economics"],"publish":true,"definition":"Is when prices for goods and services fall over time in an economy","PassFrontmatter":true}
 ---
 
 ### Deflation

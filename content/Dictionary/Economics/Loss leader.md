@@ -1,5 +1,5 @@
 ---
-{"tags":["economics"],"publish":true,"PassFrontmatter":true}
+{"tags":["economics"],"publish":true,"definition":"A loss leader is a product or service that is sold at a loss, typically to attract new customers, increase sales of other products, or to create a competitive advantage.","PassFrontmatter":true}
 ---
 
 ### Loss Leader

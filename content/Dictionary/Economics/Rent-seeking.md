@@ -1,9 +1,9 @@
 ---
-{"tags":["economics"],"publish":true,"PassFrontmatter":true}
+{"tags":["economics"],"publish":true,"definition":"Rent-seeking is the act of growing one's existing wealth by manipulating the social or political environment without creating new wealth.","PassFrontmatter":true}
 ---
 
 ### Rent-Seeking
-- Rent-seeking is an economic concept that refers to the act of obtaining [[Dictionary/Economics/economic rent\|economic rent]] by manipulating the social or political environment in which economic activities take place, rather than by creating new wealth.
+- Rent-seeking is an economic concept that refers to the act of obtaining [[Dictionary/Economics/Economic Rent\|economic rent]] by manipulating the social or political environment in which economic activities take place, rather than by creating new wealth.
 - Rent-seeking is the act of growing one's existing wealth by manipulating the social or political environment without creating new wealth.
 - Rent-seeking activities have negative effects on the rest of society. They result in reduced economic efficiency through misallocation of resources, stifled competition, reduced wealth creation, lost government revenue, heightened income inequality, risk of growing corruption and cronyism, decreased public trust in institutions, and potential national decline.
 - Successful capture of regulatory agencies (if any) to gain a coercive monopoly can result in advantages for rent-seekers in a market while imposing disadvantages on their uncorrupt competitors. This is one of many possible forms of rent-seeking behavior.

@@ -4,7 +4,7 @@
 
 
 # Table Of Contents
-| File                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] |
 | [[Knowledge/Philosophy/Morality Flow/02 - Morality, Evolution, and Modern Consequences\|02 - Morality, Evolution, and Modern Consequences]]                                                                                                                         |

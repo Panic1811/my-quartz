@@ -1,5 +1,5 @@
 ---
-{"tags":["psychology"],"definition":"The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities.","publish":true,"PassFrontmatter":true}
+{"tags":["#psychology"],"definition":"The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities.","publish":true,"PassFrontmatter":true}
 ---
 
 ### Confirmation Bias

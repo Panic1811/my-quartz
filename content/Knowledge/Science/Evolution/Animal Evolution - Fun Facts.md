@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["#space"],"PassFrontmatter":true}
 ---
 
 ### 1. **Chickens are Dinosaurs’ Closest Relatives**
