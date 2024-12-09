@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <ul>
           <li>
             <em>
-              <a href="https://camargomau.com">Mau Camargo</a> © 2023
+              <a href="your-url">Vedant Bali</a> © 2024
             </em>
           </li>
         </ul>
