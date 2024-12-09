@@ -3,15 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notkesto",
+    pageTitle: "Vedant's Directory",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google",
-      tagId: "G-FWVVWT01FS"
+      provider: "Plausible",
     },
-    baseUrl: "camargomau.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "vedantbali.com",
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
@@ -47,8 +46,10 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
+      Plugin.HardLineBreaks(),
+      Plugin.Latex(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
