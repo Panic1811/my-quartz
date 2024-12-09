@@ -4,13 +4,9 @@ title: "Home"
 
 **Welcome!**
 
-This is the _**Notkesto**_, my personal collection of notes. I use these notes to write down everything I learn and to document some of my projects.
+This is the _**My Directory**_, my personal collection of notes. I use these notes to write down everything I learn and to document some of my projects.
 
 ---
-
-- **[[MAC|Start here if you're looking for my university notes]]** (the **📚 MAC** link above).
-
-- **[[Notkesto|Start here if you'd like to learn more about the way I take notes and the way I organise them]]**.
 
 ---
 
