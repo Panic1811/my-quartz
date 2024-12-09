@@ -7,9 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [Component.LinksHeader()],
   footer: Component.Footer({
     links: {
-      "Site repo": "https://github.com/camargomau/notkesto-site",
-      "Sciujo repo": "https://github.com/camargomau/sciujo",
-      "Lingvujo repo": "https://github.com/camargomau/lingvujo",
+      "Site repo": "https://github.com/Panic1811/my-quartz",
     },
   }),
 }
