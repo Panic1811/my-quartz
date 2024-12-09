@@ -25,4 +25,14 @@
 > | [[Dictionary/Economics/Stagflation\|Stagflation]]                               |
 > 
 
+> [!politics]
+> lalalalala
 
+> [!general]
+> lalalalala
+
+> [!religion]
+> lalalalala
+
+> [!problema]
+> lalalalala
