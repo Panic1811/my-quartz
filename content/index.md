@@ -8,8 +8,6 @@ This is the _**My Directory**_, my personal collection of notes. I use these not
 
 ---
 
----
-
 > [!tip]- Site Navigation
 > You can use the links at the top of every page to get started on the most important parts of the _Notkesto_.
 >

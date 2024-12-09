@@ -128,9 +128,26 @@ a.tag-link {
   }
 }
 
+// Table Hover Highlight
+
+.table-container {
+  >table {
+    margin: 0;
+    padding: 0;
+
+    tr:hover td {
+      background-color: var(--highlight);
+    }
+
+    >* {
+      line-height: 1.5rem;
+    }
+  }
+}
+
 // Tracker Table Styles
 
-.popover-hint {
+.cards {
   :root[saved-theme="dark"] {
     --cards-background-hover: #040404;
     --image-muted: 0.7;
@@ -141,22 +158,22 @@ a.tag-link {
     --image-muted: 1;
   }
 
-  --cards-min-width: 280px;
-  --cards-max-width: 320px; // 1fr
-  --cards-image-height: 350px;
+  --cards-min-width: 180px;
+  --cards-max-width: 200px; // 1fr
+  --cards-image-height: 300px;
   --cards-aspect-ratio: 2/3;
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 
-  --cards-background: #030909;
+  --cards-background: transparent;
   --cards-border: #282726;
-  --cards-border-hover: rgb(71, 71, 71);
+  --cards-border-hover: rgb(61, 69, 68);
   --border-width: 1px;
 
   @media all and (max-width: 500px) {
     --cards-min-width: 100px;
   }
 
-  @media all and (max-width: #{$mobileBreakpoint}) {
+  @media all and (max-width: 600px) {
     --cards-min-width: 120px;
   }
 
@@ -191,8 +208,8 @@ a.tag-link {
         --cards-columns: repeat(5, minmax(0, 1fr));
       }
 
-      > tr {
-        > td {
+      >tr {
+        >td {
           &:not(:first-child) {
             @media (max-width: 400pt) {
               font-size: 80%;
@@ -202,8 +219,8 @@ a.tag-link {
       }
     }
 
-    > tbody {
-      > tr {
+    >tbody {
+      >tr {
         border: 1px solid var(--cards-border);
         display: flex;
         flex-direction: column;
@@ -219,12 +236,12 @@ a.tag-link {
             0 1px 3px 1px rgba(0, 0, 0, 0.025);
           transition: box-shadow 0.15s linear;
 
-          > td:not(:last-child) {
+          >td:not(:last-child) {
             border-bottom: 1px solid var(--cards-border-hover);
           }
         }
 
-        > td {
+        >td {
           white-space: initial;
           flex: 1 1 0;
 
@@ -238,7 +255,7 @@ a.tag-link {
             }
           }
 
-          > ul {
+          >ul {
             width: 100%;
             padding: 0.1em 0;
             margin: 0 auto;
@@ -255,7 +272,6 @@ a.tag-link {
           img {
             aspect-ratio: var(--cards-aspect-ratio);
             width: 100%;
-            height: auto;
             max-height: var(--cards-image-height);
             vertical-align: bottom;
             opacity: var(--image-muted);
@@ -278,8 +294,9 @@ a.tag-link {
 
 // Table Styles Reset in Popover
 
-.popover-hint {
+.cards {
   .popover {
+
     table,
     table thead,
     table tbody,
@@ -293,9 +310,9 @@ a.tag-link {
   }
 }
 
-.popover-hint .popover {
+.cards .popover {
   .table-container {
-    > table {
+    >table {
       tr {
         &:hover {
           td {
@@ -313,7 +330,7 @@ a.tag-link {
   table {
     display: block;
     overflow-x: auto;
-    max-width: 600px;
+    max-width: fit-content;
     white-space: nowrap;
 
     th {
@@ -325,8 +342,8 @@ a.tag-link {
       padding: 0.2rem 0.7rem;
     }
 
-    > tbody {
-      > tr {
+    >tbody {
+      >tr {
         border-bottom: 1px solid var(--lightgray);
 
         &:last-of-type {
@@ -337,10 +354,65 @@ a.tag-link {
           border: none;
         }
 
-        > td:not(:last-child) {
+        >td:not(:last-child) {
           border-bottom: none;
         }
       }
     }
+  }
+}
+
+// Other Table Styles
+
+.table-wide {
+  table {
+    display: block;
+    overflow-x: auto;
+    max-width: fit-content;
+    white-space: nowrap;
+  }
+}
+
+.table-row-numbers {
+  table {
+    counter-reset: rowNumber;
+
+    tr {
+      td:first-child {
+        counter-increment: rowNumber;
+      }
+
+      td:first-child::before {
+        content: counter(rowNumber) ".";
+      }
+    }
+  }
+}
+
+.table-lines {
+  table {
+    tr {
+      td {
+        border-left: 1px solid var(--lightgray);
+        border-bottom: 1px solid var(--lightgray);
+
+        &:last-of-type {
+          border-right: 1px solid var(--lightgray);
+        }
+      }
+    }
+  }
+}
+
+// Normal Table Styles
+table:not(.cards table) {
+  display: block;
+  overflow-x: auto;
+  max-width: fit-content;
+  white-space: rap;
+
+  td {
+    overflow-wrap: normal;
+    hyphens: none;
   }
 }

@@ -19,6 +19,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import BackToTop from "./BackToTop"
 import LinksHeader from "./LinksHeader"
 
 export {
@@ -43,5 +44,6 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  LinksHeader
+  LinksHeader,
+  BackToTop
 }

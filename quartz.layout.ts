@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       "Site repo": "https://github.com/Panic1811/my-quartz",
     },
   }),
+  
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -34,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.BackToTop()
   ],
 }
 
