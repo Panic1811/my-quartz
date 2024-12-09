@@ -45,5 +45,5 @@ export {
   NotFound,
   Breadcrumbs,
   LinksHeader,
-  BackToTop
+  BackToTop,
 }
