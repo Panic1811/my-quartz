@@ -14,6 +14,8 @@
 **Box Office:** $282,144,358
 **RT:** "Rotten Tomatoes: 92%"
 
+![lol](image.png)
+
 ## 🗒️Plot
 
 Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...
