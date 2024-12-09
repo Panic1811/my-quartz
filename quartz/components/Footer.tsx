@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <ul>
           <li>
             <em>
-              <a href="your-url">Vedant Bali</a> © 2024
+              <a href="vedantbali.com">Vedant Bali</a> © 2024
             </em>
           </li>
         </ul>
