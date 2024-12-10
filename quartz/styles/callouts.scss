@@ -1,3 +1,4 @@
+@use "./variables.scss" as *;
 @use "sass:color";
 
 .callout {
@@ -13,16 +14,33 @@
     margin-top: 0;
   }
 
-  &[data-callout="note"] {
+  --callout-icon-note: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="2" x2="22" y2="6"></line><path d="M7.5 20.5 19 9l-4-4L3.5 16.5 2 22z"></path></svg>');
+  --callout-icon-abstract: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><path d="M12 11h4"></path><path d="M12 16h4"></path><path d="M8 11h.01"></path><path d="M8 16h.01"></path></svg>');
+  --callout-icon-info: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>');
+  --callout-icon-todo: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path><path d="m9 12 2 2 4-4"></path></svg>');
+  --callout-icon-tip: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg> ');
+  --callout-icon-success: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> ');
+  --callout-icon-question: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg> ');
+  --callout-icon-warning: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>');
+  --callout-icon-failure: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> ');
+  --callout-icon-danger: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> ');
+  --callout-icon-bug: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="8" height="14" x="8" y="6" rx="4"></rect><path d="m19 7-3 2"></path><path d="m5 7 3 2"></path><path d="m19 19-3-2"></path><path d="m5 19 3-2"></path><path d="M20 13h-4"></path><path d="M4 13h4"></path><path d="m10 4 1 2"></path><path d="m14 4-1 2"></path></svg>');
+  --callout-icon-example: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg> ');
+  --callout-icon-quote: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"></path><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"></path></svg>');
+  --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
+
+  &[data-callout] {
     --color: #448aff;
     --border: #448aff44;
     --bg: #448aff10;
+    --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
     --color: #00b0ff;
     --border: #00b0ff44;
     --bg: #00b0ff10;
+    --callout-icon: var(--callout-icon-abstract);
   }
 
   &[data-callout="info"],
@@ -30,30 +48,39 @@
     --color: #00b8d4;
     --border: #00b8d444;
     --bg: #00b8d410;
+    --callout-icon: var(--callout-icon-info);
+  }
+
+  &[data-callout="todo"] {
+    --callout-icon: var(--callout-icon-todo);
   }
 
   &[data-callout="tip"] {
     --color: #00bfa5;
     --border: #00bfa544;
     --bg: #00bfa510;
+    --callout-icon: var(--callout-icon-tip);
   }
 
   &[data-callout="success"] {
     --color: #09ad7a;
     --border: #09ad7144;
     --bg: #09ad7110;
+    --callout-icon: var(--callout-icon-success);
   }
 
   &[data-callout="question"] {
     --color: #dba642;
     --border: #dba64244;
     --bg: #dba64210;
+    --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
     --color: #db8942;
     --border: #db894244;
     --bg: #db894210;
+    --callout-icon: var(--callout-icon-warning);
   }
 
   &[data-callout="failure"],
@@ -62,52 +89,76 @@
     --color: #db4242;
     --border: #db424244;
     --bg: #db424210;
+    --callout-icon: var(--callout-icon-failure);
+  }
+
+  &[data-callout="bug"] {
+    --callout-icon: var(--callout-icon-bug);
+  }
+
+  &[data-callout="danger"] {
+    --callout-icon: var(--callout-icon-danger);
   }
 
   &[data-callout="example"] {
     --color: #7a43b5;
     --border: #7a43b544;
     --bg: #7a43b510;
+    --callout-icon: var(--callout-icon-example);
   }
 
   &[data-callout="quote"] {
     --color: var(--secondary);
     --border: var(--lightgray);
+    --callout-icon: var(--callout-icon-quote);
   }
 
-  &.is-collapsed > .callout-title > .fold {
+  &.is-collapsed > .callout-title > .fold-callout-icon {
     transform: rotateZ(-90deg);
   }
 }
 
 .callout-title {
   display: flex;
+  align-items: flex-start;
   gap: 5px;
   padding: 1rem 0;
   color: var(--color);
 
-  & .fold {
-    margin-left: 0.5rem;
-    transition: transform 0.3s ease;
+  --icon-size: 18px;
+
+  & .fold-callout-icon {
+    transition: transform 0.15s ease;
     opacity: 0.8;
     cursor: pointer;
+    --callout-icon: var(--callout-icon-fold);
   }
 
   & > .callout-title-inner > p {
     color: var(--color);
     margin: 0;
   }
-}
 
-.callout-icon {
-  width: 18px;
-  height: 18px;
-  flex: 0 0 18px;
-  padding-top: 4px;
-}
+  .callout-icon,
+  & .fold-callout-icon {
+    width: var(--icon-size);
+    height: var(--icon-size);
+    flex: 0 0 var(--icon-size);
 
-.callout-title-inner {
-  font-weight: 700;
+    // icon support
+    background-size: var(--icon-size) var(--icon-size);
+    background-position: center;
+    background-color: var(--color);
+    mask-image: var(--callout-icon);
+    mask-size: var(--icon-size) var(--icon-size);
+    mask-position: center;
+    mask-repeat: no-repeat;
+    padding: 0.2rem 0;
+  }
+
+  .callout-title-inner {
+    font-weight: 600;
+  }
 }
 
 // My added callouts
@@ -127,7 +178,7 @@
     --color: rgb(var(--callout-color));
     --border: rgb(var(--callout-color));
     --bg: rgba(var(--callout-color), 0.1);
-    --callout-icon: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg"   viewBox="0 0 1024 1024"><path fill="currentColor" d="M631.634 512.948c0 65.255-52.706 120.471-120.471 120.471-65.255 0-120.471-52.706-120.471-120.471s52.706-120.471 120.471-120.471 120.471 52.706 120.471 120.471zM481.046 211.772h60.235c17.569 0 30.118 12.549 30.118 30.118v60.235c0 17.569-12.549 30.118-30.118 30.118h-60.235c-17.569 0-30.118-12.549-30.118-30.118V241.89c0-17.569 15.059-30.118 30.118-30.118zm240.941 240.941h60.235c17.569 0 30.118 12.549 30.118 30.118v60.235c0 17.569-12.549 30.118-30.118 30.118h-60.235c-17.569 0-30.118-12.549-30.118-30.118v-60.235c0-17.569 12.549-30.118 30.118-30.118zM481.046 691.144h60.235c17.569 0 30.118 12.549 30.118 30.118v60.235c0 17.569-12.549 30.118-30.118 30.118h-60.235c-17.569 0-30.118-12.549-30.118-30.118v-60.235c0-15.059 15.059-30.118 30.118-30.118zM242.614 452.713h60.235c17.569 0 30.118 12.549 30.118 30.118v60.235c0 17.569-12.549 30.118-30.118 30.118h-60.235c-17.569 0-30.118-12.549-30.118-30.118v-60.235c0-17.569 12.549-30.118 30.118-30.118zM511.163 32.627C245.124 32.627 31.79 248.47 31.79 512c0 266.039 215.843 479.373 479.373 479.373S990.536 775.53 990.536 512 777.203 32.627 511.163 32.627zm0 120.471c198.275 0 358.902 160.627 358.902 358.902S709.438 870.902 511.163 870.902 152.261 710.275 152.261 512s160.627-358.902 358.902-358.902z"></path></svg>');
+    --callout-icon: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgTWljcm9zb2Z0OiBodHRwczovL2dpdGh1Yi5jb20vbWljcm9zb2Z0L3ZzY29kZS1jb2RpY29ucyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE0LjUgMkg5bC0uMzUuMTUtLjY1LjY0LS42NS0uNjRMNyAySDEuNWwtLjUuNXYxMGwuNS41aDUuMjlsLjg2Ljg1aC43bC44Ni0uODVoNS4yOWwuNS0uNXYtMTBsLS41LS41em0tNyAxMC4zMmwtLjE4LS4xN0w3IDEySDJWM2g0Ljc5bC43NC43NC0uMDMgOC41OHpNMTQgMTJIOWwtLjM1LjE1LS4xNC4xM1YzLjdsLjctLjdIMTR2OXpNNiA1SDN2MWgzVjV6bTAgNEgzdjFoM1Y5ek0zIDdoM3YxSDNWN3ptMTAtMmgtM3YxaDNWNXptLTMgMmgzdjFoLTNWN3ptMCAyaDN2MWgtM1Y5eiIvPjwvc3ZnPg==');
   }
 
   &[data-callout="philosophy"] {
@@ -159,7 +210,7 @@
     --color: rgb(var(--callout-color));
     --border: rgb(var(--callout-color));
     --bg: rgba(var(--callout-color), 0.1);
-    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-hand-helping"><path d="M11 12h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 14"/></svg>');
+    --callout-icon: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhLS0gTGljZW5zZTogQ0MwLiBNYWRlIGJ5IFNWRyBSZXBvOiBodHRwczovL3d3dy5zdmdyZXBvLmNvbS9zdmcvMjgxMDE3L3ByYXkgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8cGF0aCBkPSJNMTc5LjMzMywxNTkuMzg1bDY5LjE0LTkxLjY4MWMxMi4wOTItMTUuNDg2LDkuMzE0LTM4LjA0OC02LjE3My01MC4xMzhjLTE1LjQ4NS0xMi4wOTItMzguMDQ4LTkuMzE0LTUwLjEzOCw2LjE3MQoJCQlsLTc3LjEyNSwxMDUuNTA1Yy04Ljk4NiwxMi4yOTMtMTMuODI5LDI3LjEyNC0xMy44MjksNDIuMzV2MTQwLjgwNWwtMTcuMDU2LTE3LjA1NEw4LjM3OCwzNzEuMTE5TDEzOS4yMiw1MDEuOTYxbDc1Ljc3NS03NS43NzYKCQkJbC0xMi44MS0xMi44MTFsMjkuMDE1LTI0Ljg3YzAuMDI1LTAuMDIxLDAuMDUtMC4wNDIsMC4wNzUtMC4wNjRjNC40MzQtMy44MTMsNi44NjQtOS40NTgsNi44NjQtMTUuMzA1di04My4yODF2LTk1LjI1NgoJCQljMC0xMC4xNDctOC41MDUtMTguMzQ0LTE4Ljc2MS0xNy44MzhjLTkuNTkzLDAuNDczLTE2Ljk2LDguNzUtMTYuOTYsMTguMzU2djg1LjIxMWgtMzUuNzIxdi04My4yCgkJCUMxNjYuNjk4LDE4My41MDcsMTcxLjEzMywxNzAuMjYsMTc5LjMzMywxNTkuMzg1eiIvPgoJPC9nPgo8L2c+CjxnPgoJPGc+CgkJPHBhdGggZD0iTTQyNy44NDUsMjk1LjM0NGwtMTcuMDU0LDE3LjA1NFYxNzEuNTkzYzAtMTUuMjI1LTQuODQzLTMwLjA1Ny0xMy44MjktNDIuMzVMMzE5LjgzOCwyMy43MzgKCQkJYy0xMi4wOTItMTUuNDg1LTM0LjY1My0xOC4yNjMtNTAuMTM5LTYuMTcxYy0xNS40ODUsMTIuMDktMTguMjYzLDM0LjY1Mi02LjE3MSw1MC4xMzhsNjkuMTM5LDkxLjY4MQoJCQljOC4xOTksMTAuODc1LDEyLjYzNiwyNC4xMjIsMTIuNjM2LDM3Ljc0MnY4My4yaC0zNS43MjF2LTg1LjIxMWMwLTkuNjA1LTcuMzY2LTE3Ljg4NC0xNi45Ni0xOC4zNTcKCQkJYy0xMC4yNTUtMC41MDYtMTguNzYxLDcuNjkxLTE4Ljc2MSwxNy44MzhoLTAuMDAxdjk1LjI1NXY4My4yODFjMCw1Ljg0OCwyLjQzLDExLjQ5Myw2Ljg2NCwxNS4zMDUKCQkJYzAuMDI1LDAuMDIzLDAuMDUsMC4wNDMsMC4wNzUsMC4wNjRsMjkuMDE1LDI0Ljg3bC0xMi44MSwxMi44MTFsNzUuNzc1LDc1Ljc3NmwxMzAuODQyLTEzMC44NEw0MjcuODQ1LDI5NS4zNDR6Ii8+Cgk8L2c+CjwvZz4KPGc+Cgk8Zz4KCQk8cmVjdCB5PSIxMDcuMjgxIiB3aWR0aD0iNTkuNTM1IiBoZWlnaHQ9IjM1LjcyMSIvPgoJPC9nPgo8L2c+CjxnPgoJPGc+CgkJPHJlY3QgeD0iMjUuODY5IiB5PSIxNC4wMDciIHRyYW5zZm9ybT0ibWF0cml4KDAuMzMzMyAtMC45NDI4IDAuOTQyOCAwLjMzMzMgLTEyLjExNjQgNzAuNDEyKSIgd2lkdGg9IjM1LjcyIiBoZWlnaHQ9IjU5LjUzNCIvPgoJPC9nPgo8L2c+CjxnPgoJPGc+CgkJPHJlY3QgeD0iNDUyLjQ2NSIgeT0iMTA3LjI4MSIgd2lkdGg9IjU5LjUzNSIgaGVpZ2h0PSIzNS43MjEiLz4KCTwvZz4KPC9nPgo8Zz4KCTxnPgoJCQoJCQk8cmVjdCB4PSI0MzguNDg2IiB5PSIyNS45MTkiIHRyYW5zZm9ybT0ibWF0cml4KDAuOTQyOCAtMC4zMzMzIDAuMzMzMyAwLjk0MjggMTIuMTgzNyAxNTguNTc0OSkiIHdpZHRoPSI1OS41MzMiIGhlaWdodD0iMzUuNzE5Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==');
   }
 
   &[data-callout="scientific"] {
@@ -167,6 +218,6 @@
     --color: rgb(var(--callout-color));
     --border: rgb(var(--callout-color));
     --bg: rgba(var(--callout-color), 0.1);
-    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-atom"><circle cx="12" cy="12" r="1"/></svg>');
+    --callout-icon: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBQRC4gTWFkZSBieSBBbGVrc2V5IFBvcG92OiBodHRwczovL2RyaWJiYmxlLmNvbS9BbGVrc2V5UG9wb3YgLS0+CjxzdmcgZmlsbD0iIzAwMDAwMCIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMjI1NTQwNSwxMiBDMTYuNTU3NTYyNSwxMS4wNTY3NTM3IDE1Ljc1NDgwODQsMTAuMDk3OTU0MiAxNC44Mjg0MjcxLDkuMTcxNTcyODggQzEzLjkwMjA0NTgsOC4yNDUxOTE1OSAxMi45NDMyNDYzLDcuNDQyNDM3NTMgMTIsNi43NzQ0NTk1MiBDMTEuMDU2NzUzNyw3LjQ0MjQzNzUzIDEwLjA5Nzk1NDIsOC4yNDUxOTE1OSA5LjE3MTU3Mjg4LDkuMTcxNTcyODggQzguMjQ1MTkxNTksMTAuMDk3OTU0MiA3LjQ0MjQzNzUzLDExLjA1Njc1MzcgNi43NzQ0NTk1MiwxMiBDNy40NDI0Mzc1MywxMi45NDMyNDYzIDguMjQ1MTkxNTksMTMuOTAyMDQ1OCA5LjE3MTU3Mjg4LDE0LjgyODQyNzEgQzEwLjA5Nzk1NDIsMTUuNzU0ODA4NCAxMS4wNTY3NTM3LDE2LjU1NzU2MjUgMTIsMTcuMjI1NTQwNSBDMTIuOTQzMjQ2MywxNi41NTc1NjI1IDEzLjkwMjA0NTgsMTUuNzU0ODA4NCAxNC44Mjg0MjcxLDE0LjgyODQyNzEgQzE1Ljc1NDgwODQsMTMuOTAyMDQ1OCAxNi41NTc1NjI1LDEyLjk0MzI0NjMgMTcuMjI1NTQwNSwxMiBaIE0xOC4zNjY1NjcsMTAuMTcwNjQ5MSBDMTkuNjMxOTc1OCw3LjgyMDUxMTYgMTkuOTMyNTQ3OSw1Ljc5MDQxMjI2IDE5LjA3MTA2NzgsNC45Mjg5MzIxOSBDMTguMjA5NTg3Nyw0LjA2NzQ1MjExIDE2LjE3OTQ4ODQsNC4zNjgwMjQyIDEzLjgyOTM1MDksNS42MzM0MzI5NiBDMTQuNjQ3ODc2Myw2LjI2MjI1NzIzIDE1LjQ1ODgwMSw2Ljk3MzUxOTY4IDE2LjI0MjY0MDcsNy43NTczNTkzMSBDMTcuMDI2NDgwMyw4LjU0MTE5ODk1IDE3LjczNzc0MjgsOS4zNTIxMjM2OCAxOC4zNjY1NjcsMTAuMTcwNjQ5MSBaIE0xMC4xNzA2NDkxLDE4LjM2NjU2NyBDOS4zNTIxMjM2OCwxNy43Mzc3NDI4IDguNTQxMTk4OTUsMTcuMDI2NDgwMyA3Ljc1NzM1OTMxLDE2LjI0MjY0MDcgQzYuOTczNTE5NjgsMTUuNDU4ODAxIDYuMjYyMjU3MjMsMTQuNjQ3ODc2MyA1LjYzMzQzMjk2LDEzLjgyOTM1MDkgQzQuMzY4MDI0MiwxNi4xNzk0ODg0IDQuMDY3NDUyMTEsMTguMjA5NTg3NyA0LjkyODkzMjE5LDE5LjA3MTA2NzggQzUuNzkwNDEyMjYsMTkuOTMyNTQ3OSA3LjgyMDUxMTYsMTkuNjMxOTc1OCAxMC4xNzA2NDkxLDE4LjM2NjU2NyBaIE0xOS42Mjc4MDIsMTIgQzIxLjcyMDUyMzEsMTUuNDIyMjYzNSAyMi4yNDYxMTYsMTguNzI0NDQ2NyAyMC40ODUyODE0LDIwLjQ4NTI4MTQgQzE4LjcyNDQ0NjcsMjIuMjQ2MTE2IDE1LjQyMjI2MzUsMjEuNzIwNTIzMSAxMiwxOS42Mjc4MDIgQzguNTc3NzM2NTEsMjEuNzIwNTIzMSA1LjI3NTU1MzI1LDIyLjI0NjExNiAzLjUxNDcxODYzLDIwLjQ4NTI4MTQgQzEuNzUzODg0LDE4LjcyNDQ0NjcgMi4yNzk0NzY4NywxNS40MjIyNjM1IDQuMzcyMTk4MDMsMTIgQzIuMjc5NDc2ODcsOC41Nzc3MzY1MSAxLjc1Mzg4NCw1LjI3NTU1MzI1IDMuNTE0NzE4NjMsMy41MTQ3MTg2MyBDNS4yNzU1NTMyNSwxLjc1Mzg4NCA4LjU3NzczNjUxLDIuMjc5NDc2ODcgMTIsNC4zNzIxOTgwMyBDMTUuNDIyMjYzNSwyLjI3OTQ3Njg3IDE4LjcyNDQ0NjcsMS43NTM4ODQgMjAuNDg1MjgxNCwzLjUxNDcxODYzIEMyMi4yNDYxMTYsNS4yNzU1NTMyNSAyMS43MjA1MjMxLDguNTc3NzM2NTEgMTkuNjI3ODAyLDEyIFogTTE4LjM2NjU2NywxMy44MjkzNTA5IEMxNy43Mzc3NDI4LDE0LjY0Nzg3NjMgMTcuMDI2NDgwMywxNS40NTg4MDEgMTYuMjQyNjQwNywxNi4yNDI2NDA3IEMxNS40NTg4MDEsMTcuMDI2NDgwMyAxNC42NDc4NzYzLDE3LjczNzc0MjggMTMuODI5MzUwOSwxOC4zNjY1NjcgQzE2LjE3OTQ4ODQsMTkuNjMxOTc1OCAxOC4yMDk1ODc3LDE5LjkzMjU0NzkgMTkuMDcxMDY3OCwxOS4wNzEwNjc4IEMxOS45MzI1NDc5LDE4LjIwOTU4NzcgMTkuNjMxOTc1OCwxNi4xNzk0ODg0IDE4LjM2NjU2NywxMy44MjkzNTA5IFogTTUuNjMzNDMyOTYsMTAuMTcwNjQ5MSBDNi4yNjIyNTcyMyw5LjM1MjEyMzY4IDYuOTczNTE5NjgsOC41NDExOTg5NSA3Ljc1NzM1OTMxLDcuNzU3MzU5MzEgQzguNTQxMTk4OTUsNi45NzM1MTk2OCA5LjM1MjEyMzY4LDYuMjYyMjU3MjMgMTAuMTcwNjQ5MSw1LjYzMzQzMjk2IEM3LjgyMDUxMTYsNC4zNjgwMjQyIDUuNzkwNDEyMjYsNC4wNjc0NTIxMSA0LjkyODkzMjE5LDQuOTI4OTMyMTkgQzQuMDY3NDUyMTEsNS43OTA0MTIyNiA0LjM2ODAyNDIsNy44MjA1MTE2IDUuNjMzNDMyOTYsMTAuMTcwNjQ5MSBaIE0xMiwxMSBDMTIuNTUyMjg0NywxMSAxMywxMS40NDc3MTUzIDEzLDEyIEMxMywxMi41NTIyODQ3IDEyLjU1MjI4NDcsMTMgMTIsMTMgQzExLjQ0NzcxNTMsMTMgMTEsMTIuNTUyMjg0NyAxMSwxMiBDMTEsMTEuNDQ3NzE1MyAxMS40NDc3MTUzLDExIDEyLDExIFoiLz4KPC9zdmc+');
   }
 }

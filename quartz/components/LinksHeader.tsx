@@ -12,7 +12,7 @@ export default (() => {
         <div id="links-header">
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg"></img>
-            <a href="https://vedantbali.com/Dictionary/">Dictionary</a>
+            <a href="https://vedantbali.com/Dictionary/Dictionary-Glossary">Dictionary</a>
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg"></img>
