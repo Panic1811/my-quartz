@@ -2,7 +2,7 @@
 {"publish":true,"Creation Date":"2024-12-09 21:32","Modified Date":"Monday 9th December 2024 21:32:44","cssclasses":["cards","cards-cols-5","table-max","cards-1-1"],"PassFrontmatter":true}
 ---
 
-# Click Any of the ">" in the Desired Category
+## Click Any of the ">" in the Desired Category
 
 > [!general]-
 >
@@ -49,13 +49,13 @@
 
 > [!religion]-
 >
->  | Note Name                                                                                                                                                                                                                                 |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Dictionary/Religion/Mushaf\|Mushaf]]                                                                                                                                                                                                 |
-> | [[Dictionary/Religion/Proselytize\|Proselytize]]                                                                                                                                                                                       |
-> | [[Dictionary/Religion/Qiraat\|Qiraat]]                                                                                                                                                                                                 |
-> | [[Dictionary/Religion/Sunnah\|Sunnah]]                                                                                                                                                                                                 |
-> | [[Dictionary/Religion/Tafsir The explanation or interpretation of the Quran, helping to understand its meanings and context.\|Tafsir The explanation or interpretation of the Quran, helping to understand its meanings and context.]] |
+>  | Note Name                                           |
+> | --------------------------------------------------- |
+> | [[Dictionary/Religion/Mushaf\|Mushaf]]           |
+> | [[Dictionary/Religion/Proselytize\|Proselytize]] |
+> | [[Dictionary/Religion/Qiraat\|Qiraat]]           |
+> | [[Dictionary/Religion/Sunnah\|Sunnah]]           |
+> | [[Dictionary/Religion/Tafsir\|Tafsir]]           |
 > 
 
 > [!economics]-
