@@ -6,157 +6,90 @@
 
 > [!general]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at eval (plugin:quartz-syncer:17221:50)
-    at eval (plugin:quartz-syncer:17172:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                        |
+> | ------------------------------------------------ |
+> | [[Dictionary/General/Denotation\|Denotation]] |
+> | [[Dictionary/General/Dogma\|Dogma]]           |
+> | [[Dictionary/General/Dogmatic\|Dogmatic]]     |
+> | [[Dictionary/General/Hubris\|Hubris]]         |
+> | [[Dictionary/General/Immutable\|Immutable]]   |
+> | [[Dictionary/General/Posits\|Posits]]         |
+> | [[Dictionary/General/Reparation\|Reparation]] |
+> | [[Dictionary/General/veridical\|veridical]]   |
+> 
 
 > [!scientific]- Science
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                                         |
+> | ----------------------------------------------------------------- |
+> | [[Dictionary/Scientific/Anthropogenic\|Anthropogenic]]         |
+> | [[Dictionary/Scientific/Carbon Dating\|Carbon Dating]]         |
+> | [[Dictionary/Scientific/Etymology\|Etymology]]                 |
+> | [[Dictionary/Scientific/Fission\|Fission]]                     |
+> | [[Dictionary/Scientific/Fusion\|Fusion]]                       |
+> | [[Dictionary/Scientific/Hadron\|Hadron]]                       |
+> | [[Dictionary/Scientific/Hypothesis\|Hypothesis]]               |
+> | [[Dictionary/Scientific/Isotope\|Isotope]]                     |
+> | [[Dictionary/Scientific/Kleptomania\|Kleptomania]]             |
+> | [[Dictionary/Scientific/Nuclear Fission\|Nuclear Fission]]     |
+> | [[Dictionary/Scientific/Nuclear Fusion\|Nuclear Fusion]]       |
+> | [[Dictionary/Scientific/Scientific Fact\|Scientific Fact]]     |
+> | [[Dictionary/Scientific/Scientific Law\|Scientific Law]]       |
+> | [[Dictionary/Scientific/Scientific Theory\|Scientific Theory]] |
+> | [[Dictionary/Scientific/Species\|Species]]                     |
+> 
 
 > [!politics]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                             |
+> | ----------------------------------------------------- |
+> | [[Dictionary/Politics/Ratification\|Ratification]] |
+> | [[Dictionary/Politics/UNRWA\|UNRWA]]               |
+> 
 
 > [!religion]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                                                                                                                                                                                                                 |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Dictionary/Religion/Mushaf\|Mushaf]]                                                                                                                                                                                                 |
+> | [[Dictionary/Religion/Proselytize\|Proselytize]]                                                                                                                                                                                       |
+> | [[Dictionary/Religion/Qiraat\|Qiraat]]                                                                                                                                                                                                 |
+> | [[Dictionary/Religion/Sunnah\|Sunnah]]                                                                                                                                                                                                 |
+> | [[Dictionary/Religion/Tafsir The explanation or interpretation of the Quran, helping to understand its meanings and context.\|Tafsir The explanation or interpretation of the Quran, helping to understand its meanings and context.]] |
+> 
 
 > [!economics]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                                                          |
+> | ---------------------------------------------------------------------------------- |
+> | [[Dictionary/Economics/Consumer Price Index (CPI)\|Consumer Price Index (CPI)]] |
+> | [[Dictionary/Economics/Deflation\|Deflation]]                                   |
+> | [[Dictionary/Economics/Economic Rent\|Economic Rent]]                           |
+> | [[Dictionary/Economics/GDP\|GDP]]                                               |
+> | [[Dictionary/Economics/Loss leader\|Loss leader]]                               |
+> | [[Dictionary/Economics/Rent-seeking\|Rent-seeking]]                             |
+> | [[Dictionary/Economics/Stagflation\|Stagflation]]                               |
+> 
 
 > [!philosophy]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                                     |
+> | ------------------------------------------------------------- |
+> | [[Dictionary/Philosophy/Apologist\|Apologist]]             |
+> | [[Dictionary/Philosophy/Determinism\|Determinism]]         |
+> | [[Dictionary/Philosophy/Free Will\|Free Will]]             |
+> | [[Dictionary/Philosophy/Jurisprudence\|Jurisprudence]]     |
+> | [[Dictionary/Philosophy/Non-cognitivism\|Non-cognitivism]] |
+> | [[Dictionary/Philosophy/Problem of Evil\|Problem of Evil]] |
+> | [[Dictionary/Philosophy/Revelation\|Revelation]]           |
+> | [[Dictionary/Philosophy/Tautology\|Tautology]]             |
+> | [[Dictionary/Philosophy/Unnmoved Mover\|Unnmoved Mover]]   |
+> 
 
 > [!psychology]-
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  | Note Name                                                         |
+> | ----------------------------------------------------------------- |
+> | [[Dictionary/Psychology/Confirmation Bias\|Confirmation Bias]] |
+> 
 ---
-
