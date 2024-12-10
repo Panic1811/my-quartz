@@ -4,35 +4,23 @@
 
 # Click Any of the ">" in the Desired Category
 
-> [!scientific]- Politics
-> 
->  | Word                                                  |
-> | ----------------------------------------------------- |
-> | [[Dictionary/Politics/Ratification\|Ratification]] |
-> | [[Dictionary/Politics/UNRWA\|UNRWA]]               |
-> 
-
-> [!info]- Economics
-> 
->  | Word                                                                               |
-> | ---------------------------------------------------------------------------------- |
-> | [[Dictionary/Economics/Consumer Price Index (CPI)\|Consumer Price Index (CPI)]] |
-> | [[Dictionary/Economics/Deflation\|Deflation]]                                   |
-> | [[Dictionary/Economics/Economic Rent\|Economic Rent]]                           |
-> | [[Dictionary/Economics/GDP\|GDP]]                                               |
-> | [[Dictionary/Economics/Loss leader\|Loss leader]]                               |
-> | [[Dictionary/Economics/Rent-seeking\|Rent-seeking]]                             |
-> | [[Dictionary/Economics/Stagflation\|Stagflation]]                               |
-> 
-
-> [!politics]
-> lalalalala
+> [!economics]
+> This is a test for the Economics callout.
 
 > [!general]
-> lalalalala
+> This is a test for the General callout.
+
+> [!philosophy]
+> This is a test for the Philosophy callout.
+
+> [!politics]
+> This is a test for the Politics callout.
+
+> [!psychology]
+> This is a test for the Psychology callout.
 
 > [!religion]
-> lalalalala
+> This is a test for the Religion callout.
 
-> [!problema]
-> lalalalala
+> [!scientific]
+> This is a test for the Scientific callout.
