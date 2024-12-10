@@ -2,7 +2,7 @@
 publish: true
 Creation Date: 2024-12-10 18:36
 Modified Date: Tuesday 10th December 2024 18:36:17
-title: Home
+title: '"Projects"'
 cssclasses:
   - cards
   - table-max
