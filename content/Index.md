@@ -2,15 +2,13 @@
 publish: true
 Creation Date: 2024-12-10 18:36
 Modified Date: Tuesday 10th December 2024 18:36:17
-title: Projects
+title: 
 cssclasses:
   - cards
   - table-max
   - cards-2-3
+  - cards-cols-4
 ---
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">8</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>
-
-
 
 |                                                                                                          | Folder                  |
 | -------------------------------------------------------------------------------------------------------- | ----------------------- |
