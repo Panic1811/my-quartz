@@ -24,3 +24,18 @@
 
 > [!scientific]
 > This is a test for the Scientific callout.
+
+> [!objectif]-
+> This is a test for the Scientific callout.
+
+
+> [!voc]-
+> This is a test for the Scientific callout.
+
+
+> [!ex]-
+> This is a test for the Scientific callout.
+
+
+> [!conclusion]-
+> This is a test for the Scientific callout.
