@@ -1,5 +1,5 @@
 ---
-{"type":["movie"],"country":"United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia","title":"Dune Part Two","year":2024,"director":"Denis Villeneuve","actors":["Timothée Chalamet","Zendaya","Rebecca Ferguson"],"genre":["Action","Adventure","Drama"],"length":166,"seen with":"Dhruv,Palak,Mirza","year watched":"2024","rating":"9.4","location":"Dubai","trailer_embed":{"{ YoutubeEmbed }":null},"poster":"https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"$282,144,358","RT":"92%","publish":true,"PassFrontmatter":true}
+{"type":["movie"],"country":"United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia","title":"Dune Part Two","year":2024,"director":"Denis Villeneuve","actors":["Timothée Chalamet","Zendaya","Rebecca Ferguson"],"genre":["Action","Adventure","Drama"],"length":166,"seen with":"Dhruv,Palak,Mirza","year watched":"2024","rating":"9.4","location":"Dubai","trailer_embed":{"{ YoutubeEmbed }":null},"poster":"https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"$282,144,358","RT":"92%","publish":true,"seen":true,"PassFrontmatter":true}
 ---
 
 
@@ -13,8 +13,6 @@
 **Run Time:** 166 mins
 **Box Office:** $282,144,358
 **RT:** "Rotten Tomatoes: 92%"
-
-![lol](image.png)
 
 ## 🗒️Plot
 
