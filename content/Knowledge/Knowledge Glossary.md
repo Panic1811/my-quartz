@@ -6,155 +6,87 @@
 
 > [!general]- Concept Notes
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at eval (plugin:quartz-syncer:17221:50)
-    at eval (plugin:quartz-syncer:17172:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                         | Folder        |
+> | --------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+> | [[Knowledge/Concept Notes/Determinism vs Free Will Convo\|Determinism vs Free Will Convo]]                                           | Concept Notes |
+> | [[Knowledge/Concept Notes/Facts, Laws & Theories\|Facts, Laws & Theories]]                                                           | Concept Notes |
+> | [[Knowledge/Concept Notes/Magical Dice - Quantum Entanglement - Local Realism\|Magical Dice - Quantum Entanglement - Local Realism]] | Concept Notes |
+> | [[Knowledge/Concept Notes/Media Mapping - US Politics\|Media Mapping - US Politics]]                                                 | Concept Notes |
+> 
 
 > [!scientific]- Science
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                                                   | Folder    |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+> | [[Knowledge/Science/Evolution/Animal Evolution - Fun Facts\|Animal Evolution - Fun Facts]]                                                                     | Evolution |
+> | [[Knowledge/Science/Evolution/Evolution Timeline\|Evolution Timeline]]                                                                                         | Evolution |
+> | [[Knowledge/Science/Evolution/Human Evolution - Cool Achievements\|Human Evolution - Cool Achievements]]                                                       | Evolution |
+> | [[Knowledge/Science/Evolution/Human Evolution\|Human Evolution]]                                                                                               | Evolution |
+> | [[Knowledge/Science/Nuclear/How Does Both Nuclear Fusion and Nuclear Fission Release Energy\|How Does Both Nuclear Fusion and Nuclear Fission Release Energy]] | Nuclear   |
+> | [[Knowledge/Science/Space/How Do We Know What Other Planets Are Made Of\|How Do We Know What Other Planets Are Made Of]]                                       | Space     |
+> 
 
 > [!politics]- Politics
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                               | Folder                 |
+> | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+> | [[Knowledge/Politics/Political Ideology/Socialism vs Communism (Reddit)\|Socialism vs Communism (Reddit)]]                                 | Political Ideology     |
+> | [[Knowledge/Politics/US Government Overview/Additional Context and Details\|Additional Context and Details]]                               | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/Congressional Elections\|Congressional Elections]]                                             | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/Elections and Voting Systems\|Elections and Voting Systems]]                                   | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/Impeachment and Removal Process\|Impeachment and Removal Process]]                             | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/Key Concepts Simple vs. Two-Thirds Majority\|Key Concepts Simple vs. Two-Thirds Majority]]     | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/Summary of Federal, Civil, and State Lawsuits\|Summary of Federal, Civil, and State Lawsuits]] | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/The President's Powers\|The President's Powers]]                                               | US Government Overview |
+> | [[Knowledge/Politics/US Government Overview/U.S. Government Overview\|U.S. Government Overview]]                                           | US Government Overview |
+> 
 
 > [!religion]- Religion
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                        | Folder          |
+> | -------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+> | [[Knowledge/Religion/Debate Concepts/Argument From Change (Religion)  First Cause\|Argument From Change (Religion)  First Cause]]   | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/Evolution and Theology\|Evolution and Theology]]                                               | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/Fine Tuning Argument (Theism vs Atheist)\|Fine Tuning Argument (Theism vs Atheist)]]           | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/How Can Something Come From Nothing\|How Can Something Come From Nothing]]                     | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/Kalam or First Cause\|Kalam or First Cause]]                                                   | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/Kurth Godel - Truth & Proof (Math + Religion)\|Kurth Godel - Truth & Proof (Math + Religion)]] | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/The Contingency Argument 2\|The Contingency Argument 2]]                                       | Debate Concepts |
+> | [[Knowledge/Religion/Debate Concepts/The Contingency Argument\|The Contingency Argument]]                                           | Debate Concepts |
+> | [[Knowledge/Religion/Islam/Hadith\|Hadith]]                                                                                         | Islam           |
+> | [[Knowledge/Religion/Islam/Quran - General\|Quran - General]]                                                                       | Islam           |
+> | [[Knowledge/Religion/Islam/Quran Read Through\|Quran Read Through]]                                                                 | Islam           |
+> | [[Knowledge/Religion/Non Belief/Difference - Atheist, Agnostic, Secularist\|Difference - Atheist, Agnostic, Secularist]]            | Non Belief      |
+> 
 
 > [!economics]- Economics
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                                       | Folder    |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+> | [[Knowledge/Economics/Federal Reserve - Better to Target Inflation or Unemployment\|Federal Reserve - Better to Target Inflation or Unemployment]] | Economics |
+> | [[Knowledge/Economics/Federal Spending (2023)\|Federal Spending (2023)]]                                                                           | Economics |
+> 
 
 > [!philosophy]- Philosophy
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |                                                                                                                                                                                                                                                                        | Folder           |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+> | [[Knowledge/Philosophy/Ethics/Ethical Reflection Charity, Action, and Veganism\|Ethical Reflection Charity, Action, and Veganism]]                                                                                                                                  | Ethics           |
+> | [[Knowledge/Philosophy/Ethics/Ethics, Morality & Theories\|Ethics, Morality & Theories]]                                                                                                                                                                            | Ethics           |
+> | [[Knowledge/Philosophy/Life/Blaise Pascal - What Is Meaning (Gambling Analogy)\|Blaise Pascal - What Is Meaning (Gambling Analogy)]]                                                                                                                                | Life             |
+> | [[Knowledge/Philosophy/Life/Critical Thinking and the Magic of Modern Technology\|Critical Thinking and the Magic of Modern Technology]]                                                                                                                            | Life             |
+> | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] | Morality Flow    |
+> | [[Knowledge/Philosophy/Morality Flow/02 - Morality, Evolution, and Modern Consequences\|02 - Morality, Evolution, and Modern Consequences]]                                                                                                                         | Morality Flow    |
+> | [[Knowledge/Philosophy/Morality Flow/03 - Grading Moral Progress Wait—Is Change Even Real\|03 - Grading Moral Progress Wait—Is Change Even Real]]                                                                                                                   | Morality Flow    |
+> | [[Knowledge/Philosophy/Morality Flow/04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them\|04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them]]                                                                                         | Morality Flow    |
+> | [[Knowledge/Philosophy/Morality Flow/05 - Religion and Morality A Double-Edged Framework\|05 - Religion and Morality A Double-Edged Framework]]                                                                                                                     | Morality Flow    |
+> | [[Knowledge/Philosophy/Morality Flow/Morality General/Moral Development and External Influences\|Moral Development and External Influences]]                                                                                                                        | Morality General |
+> 
 
 > [!psychology]- Psychology
 >
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1230365)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at eval (plugin:quartz-syncer:10817:23)
-    at async eval (plugin:quartz-syncer:17221:14)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17171:36)
-    at async eval (plugin:quartz-syncer:17169:14)
-    at async SyncerPageCompiler.generateMarkdown (plugin:quartz-syncer:17722:26)
-    at async PublishFile.compile (plugin:quartz-syncer:17070:26)
-    at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
-    at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
+>  |  | Folder |
+> |  | ------ |
+> 
+---
+
