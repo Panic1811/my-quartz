@@ -158,6 +158,3 @@
     at async PublishFile.compile (plugin:quartz-syncer:17070:26)
     at async PublishStatusManager.getPublishStatus (plugin:quartz-syncer:23179:28)
     at async getPublishStatus (plugin:quartz-syncer:22291:37)</pre>
-
----
-
