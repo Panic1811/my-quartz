@@ -1,15 +1,26 @@
 ---
-title: "Home"
+publish: true
+Creation Date: 2024-12-10 18:36
+Modified Date: Tuesday 10th December 2024 18:36:17
+title: Projects
+cssclasses:
+  - cards
+  - table-max
+  - cards-2-3
+  - cards-cols-4
 ---
 
-**Welcome!**
+|                                                                                                          | Folder                  |
+| -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[./Issues With Donams (SMS)\|Issues With Donams (SMS)]]               | Shamaar Learning Center |
+| [[./School Management Systems (SMS)\|School Management Systems (SMS)]] | Shamaar Learning Center |
+| [[./Gleny\|Gleny]]                                               | Staff                   |
+| [[./Nikhil\|Nikhil]]                                             | Staff                   |
+| [[./Remi\|Remi]]                                                 | Staff                   |
+| [[./Shaimy\|Shaimy]]                                             | Staff                   |
+| [[./Tina\|Tina]]                                                 | Staff                   |
+| [[./Staff Workflow Analysis\|Staff Workflow Analysis]]           | Staff                   |
 
-This is the _**My Directory**_, my personal collection of notes. I use these notes to write down everything I learn and to document some of my projects.
 
----
 
-> [!tip]- Site Navigation
-> You can use the links at the top of every page to get started on the most important parts of the _Notkesto_.
->
-> If you're looking for something specific, you can use the search bar (which can also be toggled with _Ctrl + K_).
-
+lolzzz
