@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Creation Date":"2024-12-09 21:32","Modified Date":"Monday 9th December 2024 21:32:44","cssclasses":["cards","table-max","cards-1-1","table-wide"],"PassFrontmatter":true}
+{"publish":true,"Creation Date":"2024-12-09 21:32","Modified Date":"Monday 9th December 2024 21:32:44","cssclasses":["cards","table-max","cards-1-1","table-wide","cards-cols-3"],"PassFrontmatter":true}
 ---
 
 ## Click Any of the ">" in the Desired Category
