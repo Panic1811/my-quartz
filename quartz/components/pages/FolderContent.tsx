@@ -29,6 +29,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const { tree, fileData, allFiles, cfg } = props
     const folderSlug = simplifySlug(fileData.slug!)
     const folderParts = folderSlug.split(path.posix.sep)
+    const isIndexPage = folderSlug.endsWith("index")
 
     const allPagesInFolder: QuartzPluginData[] = []
     const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
@@ -85,16 +86,18 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
-        <div class="page-listing">
-          {options.showFolderCount && (
-            <p>
-              {`Items under folder: ${allPagesInFolder.length}`}
-            </p>
-          )}
-          <div>
-            <PageList {...listProps} />
+        {!isIndexPage && (
+          <div class="page-listing">
+            {options.showFolderCount && (
+              <p>
+                {`Items under folder: ${allPagesInFolder.length}`}
+              </p>
+            )}
+            <div>
+              <PageList {...listProps} />
+            </div>
           </div>
-        </div>
+        )}
       </div>
     )
   }
