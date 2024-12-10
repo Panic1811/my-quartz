@@ -3,6 +3,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
+import './styles/custom.scss';
 
 export function byDateAndAlphabetical(
   cfg: GlobalConfiguration,

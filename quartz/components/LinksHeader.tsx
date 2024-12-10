@@ -16,21 +16,17 @@ export default (() => {
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg"></img>
-            <a href="https://vedantbali.com/Knowledge/Glossary">Learn</a>
+            <a href="https://vedantbali.com/Dictionary/Dictionary-Glossary">Learn</a>
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Movie%20camera/Color/movie_camera_color.svg"></img>
             <a href="https://vedantbali.com/Media-Review/">Reviews</a>
           </span>
           <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Triangular%20ruler/Color/triangular_ruler_color.svg"></img>
-            <a href="/Sciujo/Mathematics">Maths</a>
+            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Open%20file%20folder/Color/open_file_folder_color.svg"></img>
+            <a href="https://vedantbali.com/Projects/">Projects</a>
           </span>
-          <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/Color/laptop_color.svg"></img>
-            <a href="/Sciujo/Computing">Comp</a>
-          </span>
-        </div>
+                 </div>
       <hr style="background-color: var(--gray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>
       </div>
     )
