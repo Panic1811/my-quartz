@@ -2,7 +2,7 @@
 {"type":{"{ Type }":null},"country":{"{ Country }":null},"title":{"{ Title }":null},"year":{"{ Year }":null},"director":{"{ Director }":null},"actors":[{"{ Actors }":null}],"genre":[{"{ Genre }":null}],"length":{"{ Runtime }":null},"seen with":null,"year watched":null,"rating":null,"location":null,"trailer_embed":{"{ YoutubeEmbed }":null},"poster":{"{ Poster }":null},"Box_office":{"{ BoxOffice }":null},"RT":{"{ Ratings|\"|\"|<$Rotten Tomatoes\\: .*$> }":null},"publish":true,"seen":false,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
 ---
 
-
+{{Poster}}
 # 🎥 **{{Title}}** 
 *Creation Date: <% tp.file.creation_date() %>*
 
