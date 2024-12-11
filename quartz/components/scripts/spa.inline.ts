@@ -66,7 +66,11 @@ async function navigate(url: URL, isBack: boolean = false) {
   if (!isBack) {
     if (url.hash) {
       const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
+      if (el) {
+        const offset = 20
+        const elementPosition = el.getBoundingClientRect().top + window.scrollY - offset
+        window.scrollTo({ top: elementPosition, behavior: "smooth" })
+      }
     } else {
       window.scrollTo({ top: 0 })
     }
