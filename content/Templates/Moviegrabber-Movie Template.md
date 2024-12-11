@@ -1,8 +1,8 @@
 ---
-{"type":{"{ Type }":null},"country":{"{ Country }":null},"title":{"{ Title }":null},"year":{"{ Year }":null},"director":{"{ Director }":null},"actors":[{"{ Actors }":null}],"genre":[{"{ Genre }":null}],"length":{"{ Runtime }":null},"seen with":null,"year watched":null,"rating":null,"location":null,"trailer_embed":{"{ YoutubeEmbed }":null},"poster":{"{ Poster }":null},"Box_office":{"{ BoxOffice }":null},"RT":{"{ Ratings|\"|\"|<$Rotten Tomatoes\\: .*$> }":null},"publish":true,"seen":false,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
+{"type":"{{Type}}","country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":["{{Actors}}"],"genre":["{{Genre}}"],"length":"{{Runtime}}","seen with":null,"year watched":null,"rating":null,"location":null,"trailer_embed":"{{YoutubeEmbed}}","poster":"{{Poster}}","Box_office":"{{BoxOffice}}","RT":"{{Ratings|\"|\"|<$Rotten Tomatoes\\: .*$>}}","publish":true,"seen":true,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
 ---
 
-{{Poster}}
+
 # 🎥 **{{Title}}** 
 *Creation Date: <% tp.file.creation_date() %>*
 
@@ -21,9 +21,14 @@
 
 ## ⭐ Quick Ratings
 
-1. **Story:**  
+1. **Story:** 
+	- :Story = 
 2. **Acting:** 
+	- :Acting = 
 3. **Cinematography:** 
-4. **Music/Score:** 
+	- :Cinematography = 
+4. **Music:** 
+	- :Music = 
 5. **Overall:** 
+	- (:Story + :Acting + :Cinematography + :Music)/4 = 
 

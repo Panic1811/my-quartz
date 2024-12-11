@@ -10,7 +10,7 @@ They have provided a custom solution for the school which included onboarding; h
 
 ## Pain Points - Per User
 
-### Rajni (HOD)
+### 1. Rajni (HOD)
 
 **Position:** Head of Department
 **User Role:** HOD
@@ -97,7 +97,7 @@ I believe have not spoken to Donams regarding the manual entry for the exams. <m
 > 	  ![Issues With Donams (SMS) - Shamaar-20241206025449167.png](../../Images/Issues%20With%20Donams%20(SMS)%20-%20Shamaar-20241206025449167.png)
 
 ---
-### Gleny (HR)
+### 2. Gleny (HR)
 
 **Position:** HR
 **User Role:** Human Resource, Accountant, Accounts Manager
@@ -115,7 +115,7 @@ I believe have not spoken to Donams regarding the manual entry for the exams. <m
 > 2. For manual entry of teachers (maybe staff as well), we found Teachers → Teacher's Attendance module feature, but it doesn't show anything and ideally should be manually editable. *Wondering what this module feature does or if it only works when NFC device is implemented.* ❓
 
 --- 
-### Shaimy (Accountant)
+### 3. Shaimy (Accountant)
 
 **Position:** Accountant
 **User Role:**  Accountant
@@ -149,7 +149,7 @@ Priority:
 > ![Issues With Donams (SMS) - Shamaar-20241206033917671.png](../../Images/Issues%20With%20Donams%20(SMS)%20-%20Shamaar-20241206033917671.png)
 
 ---
-### Tina (Admissions Officer)
+### 4. Tina (Admissions Officer)
 
 **Position:** Admissions Officer
 **User Role:**  Admin

@@ -4,6 +4,7 @@
 
 
 # Table Of Contents
+
 |                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] |

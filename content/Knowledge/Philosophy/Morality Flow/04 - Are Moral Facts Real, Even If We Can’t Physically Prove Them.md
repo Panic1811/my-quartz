@@ -51,3 +51,7 @@ However, just as we can **reason** about scientific topics even when they’re h
 Though we may not have an **absolute proof** of what’s right or wrong, the **reasoning process** can guide us to make better moral decisions, much like reasoning about scientific theories helps us understand the world, even when we can’t fully prove every detail.
 
 **Conclusion:** Moral facts, much like scientific facts, can’t always be **physically proven** in an objective, empirical way. But that doesn’t make them any less real or important. By **reasoning**, **observing consequences**, and using **common sense**, we can conclude that moral facts are worth believing in, even if we can’t fully prove every aspect of them right now. And just as science evolves over time, so too does our understanding of what’s morally right and wrong, making the pursuit of moral facts just as worthwhile as the pursuit of scientific knowledge.
+
+Scientific facts 
+
+
