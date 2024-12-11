@@ -47,9 +47,11 @@
 > > - Other particles with mass cannot reach the speed of light, as it would require an infinite amount of energy.  
 > 
 > > [!example]+ Massless Particles    
+> > 
 > > Photons, gluons, and W and Z bosons are examples of massless particles that travel at the speed of light.  
 > 
 > > [!abstract]+ Fun Fact  
+> > 
 > > The speed of light is a fundamental constant in physics, denoted by the letter c, and is a key component in the famous equation E = mc^2.  
 > 
 > Learn More: [Speed of Light](https://en.wikipedia.org/wiki/Speed_of_light)  
