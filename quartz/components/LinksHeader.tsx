@@ -26,6 +26,10 @@ export default (() => {
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Open%20file%20folder/Color/open_file_folder_color.svg"></img>
             <a href="https://vedantbali.com/Projects/">Projects</a>
           </span>
+          <span>
+          <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Red%20question%20mark/Color/red_question_mark_color.svg"></img>
+            <a href="https://vedantbali.com/Q&A/QnA-Glossary">Q&A</a>
+          </span>
                  </div>
       <hr style="background-color: var(--gray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>
       </div>
