@@ -2,7 +2,7 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-# Table Of Contents
+# Full Read-Through - Pt 4
 |                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] |
@@ -21,7 +21,7 @@ Are Moral Facts Real, Even If We Can’t Physically Prove Them?
 **1. What Is the Problem of Induction?**  (David Hume)
 Induction is a type of reasoning where we make generalizations based on specific observations. For example, if you see the sun rise every day, you might **induce** that it will rise tomorrow too. This works in many cases, but there's a **problem**: we can't **prove** tomorrow’s sunrise by looking at today’s alone—it’s always possible that the sun might not rise, even if it seems extremely unlikely.
 
-This is called the **problem of induction**: we can make reasonable predictions based on past experience, but those predictions can't be **absolutely** proven—they’re always based on **probability**, not certainty. The same can be said about **scientific law**—they’re based on observed patterns, but we can never fully prove they will always hold true in every situation.
+This is called the **problem of induction**: we can make reasonable predictions based on past experience, but those predictions can't be **absolutely** proven—they’re always based on **probability**, not certainty. The same can be said about **[[Dictionary/Scientific/Scientific Law\|Scientific Law]]**—they’re based on observed patterns, but we can never fully prove they will always hold true in every situation.
 
 **2. Can We Prove Moral Facts Like Physical Facts?**  
 Just like scientific facts (e.g., the laws of physics) rely on induction, moral facts—like "murder is wrong"—don’t have the same kind of **empirical proof**. You can’t _measure_ moral facts in the same way you can measure physical facts. For instance, there’s no physical instrument to measure if an action is **morally wrong**, in the same way you can measure a rock's mass or speed.

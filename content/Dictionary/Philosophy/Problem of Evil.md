@@ -30,7 +30,7 @@
 > The problem of evil is a challenge to any religion that posits the existence of an all-powerful, all-knowing, and all-good God. However, some religions, such as Buddhism and Hinduism, do not posit the existence of such a God, and therefore are not challenged by the problem of evil in the same way.
 
 > [!faq]- Can the problem of evil be solved?
-> There is no universally accepted solution to the problem of evil. However, various philosophers and theologians have proposed solutions, such as the free will defense, which argues that God gave humans free will, and that evil is a result of human choices.
+> There is no universally accepted solution to the problem of evil. However, various philosophers and theologians have proposed solutions, such as the free will defense, which argues that God gave humans [[Dictionary/Philosophy/Free Will\|Free Will]], and that evil is a result of human choices.
 
 > [!faq]- Is the problem of evil a reason to reject the existence of God?
 > The problem of evil is often cited as a reason to reject the existence of God. However, some philosophers and theologians argue that the problem of evil is not a conclusive reason to reject the existence of God, and that there may be other reasons to believe in God despite the existence of evil.

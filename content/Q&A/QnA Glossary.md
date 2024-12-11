@@ -2,6 +2,9 @@
 {"publish":true,"Creation Date":"2024-12-11 18:48","Modified Date":"Wednesday 11th December 2024 18:48:45","PassFrontmatter":true}
 ---
 
+![](https://i.imgur.com/90zT1hh.png)
+
+
 > [!scientific]- How do we know the composition of the Earth's depths if we've never drilled far down enough?
 > Scientists use indirect methods to study the Earth's interior, including seismic waves from earthquakes, gravitational measurements, and laboratory experiments that simulate high-pressure conditions.
 >

@@ -3,7 +3,7 @@
 ---
 
 
-# Table Of Contents
+# Full Read-Through - Pt 1
 
 |                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,7 +172,7 @@ Islam teaches kindness toward animals, yet consuming factory-farmed meat often i
 
 ### **Final Reflection: Speciesism and Symmetry**
 
-1. **Speciesism:** Many moral inconsistencies stem from valuing humans over animals based solely on species membership.
+1. **Speciesism:** Many moral inconsistencies stem from valuing humans over animals based solely on [[Dictionary/Scientific/Species\|Species]] membership.
     
     - Slavery was seen as immoral because the enslaved were humans, but animal suffering is dismissed due to species differences.
     - Symmetry challenges this by asking, “If animals share key traits like consciousness or suffering, why is their exploitation moral?”. Does it only apply once it can be demonstrated?

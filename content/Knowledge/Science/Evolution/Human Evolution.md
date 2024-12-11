@@ -108,4 +108,4 @@ Let’s consider the evolution of whales:
 
 ### **Conclusion**
 
-Fossils help scientists understand how traits evolved by showing patterns of change over time. By combining fossil evidence with genetics, anatomy, and ecological studies, scientists can infer how traits helped species adapt and survive. This strengthens the **theory of evolution**, making it one of the most robust scientific explanations we have.
+Fossils help scientists understand how traits evolved by showing patterns of change over time. By combining fossil evidence with genetics, anatomy, and ecological studies, scientists can infer how traits helped [[Dictionary/Scientific/Species\|Species]] adapt and survive. This strengthens the **theory of evolution**, making it one of the most robust scientific explanations we have.

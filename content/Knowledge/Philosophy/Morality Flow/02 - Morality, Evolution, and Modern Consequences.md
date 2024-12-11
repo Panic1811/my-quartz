@@ -2,7 +2,7 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-# Table Of Contents
+# Full Read-Through - Pt 2
 |                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] |

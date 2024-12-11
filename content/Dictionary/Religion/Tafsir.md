@@ -23,7 +23,7 @@
 - The word "tafsir" comes from the Arabic root "f-s-r", which means "to explain" or "to interpret". The term has been used in Islamic scholarship since the early days of Islam to refer to the interpretation and explanation of the Quran.
 
 #### **Denotations**
-- Tafsir can also refer to the interpretation of other Islamic texts, such as the Hadith (sayings and actions of the Prophet Muhammad).
+- Tafsir can also refer to the interpretation of other Islamic texts, such as the [[Knowledge/Religion/Islam/Hadith\|Hadith]] (sayings and actions of the Prophet Muhammad).
 
 [Tafsir](https://en.wikipedia.org/wiki/Tafsir)
 ---
@@ -36,4 +36,4 @@
 > Ibn Kathir (1301-1373 CE) is considered one of the most important Tafsir scholars in Islamic history, known for his comprehensive and authoritative commentary on the Quran.
 
 > [!faq]- How does Tafsir relate to Islamic law (Sharia)?
-> Tafsir plays a crucial role in the development of Islamic law (Sharia), as it provides the basis for understanding the Quranic verses that form the foundation of Islamic jurisprudence.
+> Tafsir plays a crucial role in the development of Islamic law (Sharia), as it provides the basis for understanding the Quranic verses that form the foundation of Islamic [[Dictionary/Philosophy/Jurisprudence\|Jurisprudence]].

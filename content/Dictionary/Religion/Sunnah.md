@@ -20,7 +20,7 @@
 - The word "Sunnah" comes from the Arabic word for "path" or "way", and refers to the path or way of life followed by the Prophet Muhammad.
 
 #### **Denotations**
-- In Islamic theology, the Sunnah is considered a source of revelation, alongside the Quran, and is used to interpret and understand Islamic law and doctrine.
+- In Islamic theology, the Sunnah is considered a source of [[Dictionary/Philosophy/Revelation\|Revelation]], alongside the Quran, and is used to interpret and understand Islamic law and doctrine.
 
 #### Frequently Asked Questions
 

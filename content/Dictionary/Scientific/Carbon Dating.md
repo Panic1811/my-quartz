@@ -11,7 +11,7 @@ Carbon dating is a scientific method used to determine the age of once-living th
 
 1. **How Carbon-14 Works**:
     
-    - Carbon-14 is a rare, radioactive isotope of carbon present in the atmosphere.
+    - Carbon-14 is a rare, radioactive [[Dictionary/Scientific/Isotope\|Isotope]] of carbon present in the atmosphere.
     - Living organisms take in carbon-14 through breathing, eating, or photosynthesis, keeping the carbon-14 in their bodies in balance with the environment.
 2. **When Organisms Die**:
     

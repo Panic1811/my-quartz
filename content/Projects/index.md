@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Creation Date":"2024-12-10 18:36","Modified Date":"Tuesday 10th December 2024 18:36:17","title":"Projects","cssclasses":["cards","table-max","cards-2-3","cards-cols-4"],"PassFrontmatter":true}
+{"publish":true,"Creation Date":"2024-12-10 18:36","Modified Date":"Tuesday 10th December 2024 18:36:17","title":"Projects Overview","cssclasses":["cards","table-max","cards-2-3","cards-cols-4"],"PassFrontmatter":true}
 ---
 
 

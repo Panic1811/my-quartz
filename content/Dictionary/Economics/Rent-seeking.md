@@ -16,7 +16,7 @@
 - Similar: Crony capitalism, Corporate welfare, Protectionism
 
 #### **Etymology**
-- The term "rent-seeking" was first coined by economist Gordon Tullock in 1967, and it is derived from the concept of economic rent, which refers to the income earned by a factor of production in excess of its opportunity cost.
+- The term "rent-seeking" was first coined by economist Gordon Tullock in 1967, and it is derived from the concept of [[Dictionary/Economics/Economic Rent\|Economic Rent]], which refers to the income earned by a factor of production in excess of its opportunity cost.
 
 #### **Denotations**
 - Rent-seeking can have negative connotations, implying that individuals or companies are using unfair or manipulative means to obtain economic benefits.
