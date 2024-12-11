@@ -15,6 +15,7 @@
 > | [[Dictionary/General/Immutable\|Immutable]]   |
 > | [[Dictionary/General/Posits\|Posits]]         |
 > | [[Dictionary/General/Reparation\|Reparation]] |
+> | [[Dictionary/General/Species\|Species]]       |
 > | [[Dictionary/General/veridical\|veridical]]   |
 > 
 
@@ -36,7 +37,6 @@
 > | [[Dictionary/Scientific/Scientific Fact\|Scientific Fact]]     |
 > | [[Dictionary/Scientific/Scientific Law\|Scientific Law]]       |
 > | [[Dictionary/Scientific/Scientific Theory\|Scientific Theory]] |
-> | [[Dictionary/Scientific/Species\|Species]]                     |
 > 
 
 > [!politics]-
