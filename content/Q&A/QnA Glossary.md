@@ -21,26 +21,22 @@
 > >  
 > > The deepest drilling project, the Kola Superdeep Borehole, reached a depth of about 12 kilometers (7.5 miles), but scientists have been able to infer the composition of the Earth's interior to a depth of over 6,000 kilometers (3,730 miles) using indirect methods!  
 
----
-
 > [!scientific]- How Do Scientists Measure Distances to Objects in the Universe?  
 > Scientists use various methods to measure distances in the universe, including parallax, standard candles, and redshift.  
 > 
-> > [!info]- Key Methods  
+> > [!info]+ Key Methods  
 > >  
 > > - **Parallax**: Measures the apparent shift of nearby stars against the background when viewed from opposite sides of the Earth's orbit.  
 > > - **Standard Candles**: Uses the known maximum brightness of certain celestial events, like supernovae, to estimate distances.  
 > > - **Redshift**: Calculates distances based on the stretching of light towards the red end of the spectrum due to the expansion of space.  
 > 
-> > [!example]- Practical Application  
+> > [!example]+ Practical Application  
 > >  
 > > Astronomers use a combination of these methods to create a "cosmic distance ladder" to measure the vast scales of the universe.  
 > 
-> > [!abstract]- Fun Fact  
+> > [!abstract]+ Fun Fact  
 > >  
 > > The farthest human-made object, Voyager 1, is about 14 light-hours away, but the most distant object we can see is GN-z11, a galaxy 13.4 billion light-years away!  
-
----
 
 > [!scientific]- Does Only Light Travel at the Speed of Light?  
 > No, other massless particles like gravitational waves and some types of radiation also travel at the speed of light.  
@@ -60,8 +56,6 @@
 > 
 > Learn More: [Speed of Light](https://en.wikipedia.org/wiki/Speed_of_light)  
 
----
-
 > [!scientific]- How Can We Prove Evolution Exists, Do We Have Fossils of Billions of Species?  
 > Evolution is proven through multiple lines of evidence, including fossil records, comparative anatomy, and molecular biology. While we don't have fossils of every species, the ones we do have show a clear pattern of gradual changes over time.  
 > 
@@ -73,4 +67,6 @@
 > 
 > > [!example]+ Fossil Record Example  
 > >  
-> > The fossil record of horses shows a clear transition
+> > The fossil record of horses shows a clear transition from small, multi-toed forest dwellers to large, single-toed grazers over millions of years.  
+> 
+> Learn More: [Evolution](https://en.wikipedia.org/wiki/Evolution)  
