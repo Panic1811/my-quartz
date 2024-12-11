@@ -20,7 +20,7 @@ export default (() => {
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Movie%20camera/Color/movie_camera_color.svg"></img>
-            <a href="https://vedantbali.com/Media-Review/">Reviews</a>
+            <a href="https://vedantbali.com/Media-Review/Galleries/">Reviews</a>
           </span>
           <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/refs/heads/main/assets/Open%20file%20folder/Color/open_file_folder_color.svg"></img>
