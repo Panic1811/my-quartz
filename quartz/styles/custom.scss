@@ -85,19 +85,21 @@ a.tag-link {
     & > h1, & > h2, & > h3, & > h4, & > h5, & > h6 {
       font-family: "Inter", sans-serif;
       padding-bottom: 0.3em;
-      border-bottom: 1px solid var(--lightgray);
+      
     }
 
     & > h1 {
       font-size: 1.7em; /* Largest for main titles */
       font-weight: 800; /* Extra bold for emphasis */
       color: #FFEB3B; /* Bright Yellow */
+      border-bottom: 1px solid var(--lightgray);
     }
 
     & > h2 {
       font-size: 1.5em; /* Slightly smaller than H1 */
       font-weight: 700; /* Bold for subheadings */
       color: #03A9F4; /* Light Blue */
+      border-bottom: 1px solid var(--lightgray);
     }
 
     & > h3 {
