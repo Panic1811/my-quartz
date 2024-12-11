@@ -22,7 +22,7 @@ This site is organized into different categories. Each section serves a specific
 > [!warning]- Projects
 > A peek into my **ongoing projects**, which are often work-related and goal-driven. This section showcases what I’m currently building or solving, with updates on progress and outcomes.
 
-> [!politics]- Q&A
+> [!religion]- Q&A
 > The **Q&A section** is where I answer specific questions I’ve had on different topics. It’s a quick reference to jog my memory and also serves as a helpful resource for others. I aim to include common questions within each topic to make it more comprehensive.
 ---
 > [!tip]- Site Navigation
