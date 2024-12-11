@@ -2,10 +2,11 @@
 {"publish":true,"Creation Date":"2024-12-11 18:48","Modified Date":"Wednesday 11th December 2024 18:48:45","PassFrontmatter":true}
 ---
 
-![](https://i.imgur.com/90zT1hh.png)
+
+![](https://i.imgur.com/ddzUZrc.png)
 
 
-> [!scientific]- How do we know the composition of the Earth's depths if we've never drilled far down enough?
+> [!scientific]- Do We Know the Composition of the Earth's Depths if We've Never Drilled Far Down Enough?
 > Scientists use indirect methods to study the Earth's interior, including seismic waves from earthquakes, gravitational measurements, and laboratory experiments that simulate high-pressure conditions.
 >
 > > [!info]- Key Points
@@ -17,3 +18,46 @@
 >
 > > [!abstract]- Fun Fact
 > > The deepest drilling project, the Kola Superdeep Borehole, reached a depth of about 12 kilometers (7.5 miles), but scientists have been able to infer the composition of the Earth's interior to a depth of over 6,000 kilometers (3,730 miles) using indirect methods!
+
+> [!scientific]- How Do Scientists Measure Distances to Objects in the Universe?
+> Scientists use various methods to measure distances in the universe, including parallax, standard candles, and redshift.
+>
+> > [!info]- Key Methods
+> > - **Parallax**: Measures the apparent shift of nearby stars against the background when viewed from opposite sides of the Earth's orbit.
+> > - **Standard Candles**: Uses the known maximum brightness of certain celestial events, like supernovae, to estimate distances.
+> > - **Redshift**: Calculates distances based on the stretching of light towards the red end of the spectrum due to the expansion of space.
+>
+> > [!example]- Practical Application
+> > Astronomers use a combination of these methods to create a "cosmic distance ladder" to measure the vast scales of the universe.
+>
+> > [!abstract]- Fun Fact
+> > The farthest human-made object, Voyager 1, is about 14 light-hours away, but the most distant object we can see is GN-z11, a galaxy 13.4 billion light-years away!
+
+> [!scientific]- Does Only Light Travel at the Speed of Light?
+> No, other massless particles like gravitational waves and some types of radiation also travel at the speed of light.
+>
+> > [!info]- Key Points
+> > - The speed of light (approximately 299,792,458 meters per second) is the fastest speed at which any object or information can travel in a vacuum.
+> > - Other particles with mass cannot reach the speed of light, as it would require an infinite amount of energy.
+>
+> > [!example]- Massless Particles
+> > Photons, gluons, and W and Z bosons are examples of massless particles that travel at the speed of light.
+>
+> > [!abstract]- Fun Fact
+> > The speed of light is a fundamental constant in physics, denoted by the letter c, and is a key component in the famous equation E = mc^2.
+>
+> Learn More: [Speed of Light](https://en.wikipedia.org/wiki/Speed_of_light)
+
+> [!scientific]- How Can We Prove Evolution Exists, Do We Have Fossils of Billions of Species?
+> Evolution is proven through multiple lines of evidence, including fossil records, comparative anatomy, and molecular biology. While we don't have fossils of every species, the ones we do have show a clear pattern of gradual changes over time.
+>
+> > [!info]- Key Points
+> > - Transitional fossils, like Tiktaalik and Archaeopteryx, exhibit characteristics of both their ancestors and descendants.
+> > - Comparative anatomy reveals similarities and homologies between different species, indicating a common ancestor.
+> > - Molecular biology confirms these relationships through DNA and protein sequencing.
+>
+> > [!example]- Fossil Record Example
+> > The fossil record of horses shows a clear transition from small, multi-toed forest dwellers to large, single-toed grazers over millions of years.
+>
+> Learn More: [Evolution](https://en.wikipedia.org/wiki/Evolution)
+
