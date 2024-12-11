@@ -4,9 +4,11 @@ title: "Home"
 
 **Welcome!**
 
+This is the _**My Directory**_, my personal collection of notes. I use these notes to write down everything I learn and to document some of my projects.
+
 ## Site Overview
 
-This site is my digital workspace—a structured collection of ideas, tools, and projects that I’ve organized into different categories. Each section serves a specific purpose, you can explore them below to see how everything connects and grows over time.
+This site is organized into different categories. Each section serves a specific purpose, you can explore them below to see how everything connects and grows over time.
 
 > [!abstract]- Dictionary
 > My **personal dictionary** is an ever-expanding collection of words I want to remember. Each word is categorized and comes with its definition and context. An extra feature? These words are auto-linked across my site, so you can hover over them to see their meaning without leaving the page.
@@ -22,9 +24,6 @@ This site is my digital workspace—a structured collection of ideas, tools, and
 
 > [!general]- Q&A
 > The **Q&A section** is where I answer specific questions I’ve had on different topics. It’s a quick reference to jog my memory and also serves as a helpful resource for others. I aim to include common questions within each topic to make it more comprehensive.
-
-This is the _**My Directory**_, my personal collection of notes. I use these notes to write down everything I learn and to document some of my projects.
-
 ---
 > [!tip]- Site Navigation
 > You can use the links at the top of every page to get started on the most important parts of the _My Notes_.
