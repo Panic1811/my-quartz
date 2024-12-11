@@ -52,11 +52,13 @@
 > Evolution is proven through multiple lines of evidence, including fossil records, comparative anatomy, and molecular biology. While we don't have fossils of every species, the ones we do have show a clear pattern of gradual changes over time.
 >
 > > [!info]+ Key Points
+> > 
 > > - Transitional fossils, like Tiktaalik and Archaeopteryx, exhibit characteristics of both their ancestors and descendants.
 > > - Comparative anatomy reveals similarities and homologies between different species, indicating a common ancestor.
 > > - Molecular biology confirms these relationships through DNA and protein sequencing.
 >
 > > [!example]+ Fossil Record Example
+> > 
 > > The fossil record of horses shows a clear transition from small, multi-toed forest dwellers to large, single-toed grazers over millions of years.
 >
 > Learn More: [Evolution](https://en.wikipedia.org/wiki/Evolution)
