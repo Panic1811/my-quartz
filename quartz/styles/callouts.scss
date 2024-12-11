@@ -38,7 +38,7 @@
 
   &[data-callout="abstract"] {
     --color: #00b0ff;
-    --border: #00b0ff44;
+    --border: #00aeff00;
     --bg: #00b0ff10;
     --callout-icon: var(--callout-icon-abstract);
   }
@@ -101,7 +101,7 @@
   }
 
   &[data-callout="example"] {
-    --color: #7a43b5;
+    --color: #ac5fff;
     --border: #7a43b544;
     --bg: #7a43b510;
     --callout-icon: var(--callout-icon-example);
@@ -167,7 +167,7 @@
 .callout {
 
   &[data-callout="economics"] {
-    --callout-color: 50, 168, 82; /* Muted green */
+    --callout-color: 13, 132, 123; /* Muted green */
     --color: rgb(var(--callout-color));
     --border: rgb(var(--callout-color));
     --bg: rgba(var(--callout-color), 0.1);
