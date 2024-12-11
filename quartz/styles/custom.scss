@@ -89,37 +89,37 @@ a.tag-link {
     }
 
     & > h1 {
-      font-size: 2.5em; /* Largest for main titles */
+      font-size: 1.7em; /* Largest for main titles */
       font-weight: 800; /* Extra bold for emphasis */
       color: #FFEB3B; /* Bright Yellow */
     }
 
     & > h2 {
-      font-size: 2em; /* Slightly smaller than H1 */
+      font-size: 1.5em; /* Slightly smaller than H1 */
       font-weight: 700; /* Bold for subheadings */
       color: #03A9F4; /* Light Blue */
     }
 
     & > h3 {
-      font-size: 1.75em; /* Medium-sized */
+      font-size: 1..25em; /* Medium-sized */
       font-weight: 700;
       color: #8BC34A; /* Light Green */
     }
 
     & > h4 {
-      font-size: 1.5em; /* Smaller than H3 */
+      font-size: 1.1em; /* Smaller than H3 */
       font-weight: 700;
       color: #E91E63; /* Pink */
     }
 
     & > h5 {
-      font-size: 1.25em; /* Smaller header */
+      font-size: 0.95em; /* Smaller header */
       font-weight: 600;
       color: #9C27B0; /* Purple */
     }
 
     & > h6 {
-      font-size: 1em; /* Smallest header */
+      font-size: 0.9em; /* Smallest header */
       font-weight: 500; /* Lightest weight among headers */
       color: #FF9800; /* Orange */
     }
