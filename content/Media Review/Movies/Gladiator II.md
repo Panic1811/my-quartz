@@ -1,5 +1,5 @@
 ---
-{"type":["movie"],"country":"United States, United Kingdom, Morocco, Canada","title":"Gladiator II","year":2024,"director":"Ridley Scott","actors":["Connie Nielsen","Paul Mescal","Denzel Washington"],"genre":["Action","Adventure","Drama"],"length":148,"seen with":"mom,dad","year watched":"2024","rating":"6.3","location":"Dubai","poster":"https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_SX300.jpg","Box_office":"N/A","RT":"Rotten Tomatoes: 75%","publish":true,"seen":true,"PassFrontmatter":true}
+{"type":["movie"],"country":"United States, United Kingdom, Morocco, Canada","title":"Gladiator II","year":2024,"director":"Ridley Scott","actors":["Connie Nielsen","Paul Mescal","Denzel Washington"],"genre":["Action","Adventure","Drama"],"length":148,"seen with":["mom,dad"],"year watched":"2024","rating":"6.3","location":"Dubai","poster":"https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_SX300.jpg","Box_office":"$371,515,952","RT":"Rotten Tomatoes: 75%","publish":true,"seen":true,"PassFrontmatter":true}
 ---
 
 # 🎥 **Gladiator II** 
