@@ -1,5 +1,5 @@
 ---
-{"publish":true,"password":"nikhil","PassFrontmatter":true}
+{"publish":true,"PassFrontmatter":true}
 ---
 
 Admissions Officer

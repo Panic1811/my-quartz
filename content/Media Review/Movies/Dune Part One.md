@@ -1,5 +1,5 @@
 ---
-{"type":["movie"],"country":"United States, Canada","title":"Dune Part One","year":2021,"director":"Denis Villeneuve","actors":["Timothée Chalamet","Rebecca Ferguson","Zendaya"],"genre":["Action","Adventure","Drama"],"length":155,"seen with":"Ibad,Mirza","year watched":"2021","rating":"8.4","location":"Dubai","trailer_embed":{"{ YoutubeEmbed }":null},"poster":"https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"$108,897,830","RT":"83%","publish":true,"seen":true,"PassFrontmatter":true}
+{"type":["movie"],"country":"United States, Canada","title":"Dune Part One","year":2021,"director":"Denis Villeneuve","actors":["Timothée Chalamet","Rebecca Ferguson","Zendaya"],"genre":["Action","Adventure","Drama"],"length":155,"seen with":"Ibad,Mirza","year watched":"2021","rating":"8.4","location":"Dubai","trailer_embed":{"{ YoutubeEmbed }":null},"poster":"https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"$108,897,830","RT":"Rotten Tomatoes: 83%","publish":true,"seen":true,"PassFrontmatter":true}
 ---
 
 
@@ -10,9 +10,9 @@
 **Starring:**  Timothée Chalamet, Rebecca Ferguson, Zendaya
 **Genre:** Action, Adventure, Drama
 **Run Time:** 155 mins
-**Box Office:** $108,897,830
+**Box Office:** **Box Office:**08,897,830
 **Awards:** Won 6 Oscars. 177 wins & 300 nominations total
-**RT:** "Rotten Tomatoes: 83%"
+**RT:** Rotten Tomatoes: 83%
 
 ## 🗒️Plot
 

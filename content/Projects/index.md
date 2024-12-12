@@ -11,6 +11,6 @@
 > | [[Projects/Shamaar Learning Center/Staff/Gleny\|Gleny]]                                               | Staff                   |
 > | [[Projects/Shamaar Learning Center/Staff/Nikhil\|Nikhil]]                                             | Staff                   |
 > | [[Projects/Shamaar Learning Center/Staff/Shaimy\|Shaimy]]                                             | Staff                   |
-> | [[Projects/Shamaar Learning Center/Staff/Tina\|Tina]]                                                 | Staff                   |
 > | [[Projects/Shamaar Learning Center/Staff/Staff Workflow Analysis\|Staff Workflow Analysis]]           | Staff                   |
+> | [[Projects/Shamaar Learning Center/Staff/Tina\|Tina]]                                                 | Staff                   |
 > 

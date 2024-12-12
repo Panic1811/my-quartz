@@ -13,7 +13,7 @@
 **Run Time:** 166 mins
 **Box Office:** $282,144,358
 **Awards:** 7 wins & 51 nominations
-**RT:** "Rotten Tomatoes: 92%"
+**RT:** Rotten Tomatoes: 92%
 
 > [!note]- YouTube Trailer
 > <iframe src="https://www.youtube.com/embed/Way9Dexny3w" title="Dune Part Two  Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

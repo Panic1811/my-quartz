@@ -75,6 +75,7 @@
 >
 >  | Note Name                                                     |
 > | ------------------------------------------------------------- |
+> | [[Dictionary/Philosophy/A priori\|A priori]]               |
 > | [[Dictionary/Philosophy/Apologist\|Apologist]]             |
 > | [[Dictionary/Philosophy/Determinism\|Determinism]]         |
 > | [[Dictionary/Philosophy/Free Will\|Free Will]]             |
