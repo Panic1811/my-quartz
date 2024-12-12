@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@clack/prompts": "^0.6.3",
+    "@expo/spawn-async": "^1.7.2",
     "@floating-ui/dom": "^1.4.0",
     "@napi-rs/simple-git": "0.1.9",
     "async-mutex": "^0.4.0",
@@ -80,6 +81,7 @@
     "rimraf": "^5.0.1",
     "serve-handler": "^6.1.5",
     "source-map-support": "^0.5.21",
+    "staticrypt": "^3.5.0",
     "to-vfile": "^7.2.4",
     "toml": "^3.0.0",
     "unified": "^10.1.2",

@@ -17,6 +17,7 @@ import { glob, toPosixPath } from "./util/glob"
 import { trace } from "./util/trace"
 import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
+import { encryptPages } from "./password"
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
@@ -56,6 +57,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
   await emitContent(ctx, filteredContent)
+  await encryptPages()
   console.log(chalk.green(`Done processing ${fps.length} files in ${perf.timeSince()}`))
   release()
 
