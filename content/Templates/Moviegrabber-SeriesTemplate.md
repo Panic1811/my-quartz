@@ -1,5 +1,5 @@
 ---
-{"type":["{{Type}}"],"country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":["{{Actors}}"],"genre":["{{Genre}}"],"length":"{{totalSeasons}}","seen with":null,"year watched":null,"rating":null,"location":null,"poster":"{{Poster}}","Box_office":"{{BoxOffice}}","IMDB":"{{imdbRating}}","publish":true,"seen":true,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
+{"type":["{{Type}}"],"country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":[{"{ Actors }":null}],"genre":[{"{ Genre }":null}],"length":"{{totalSeasons}}","Writer":"{{writer}}","poster":"{{Poster}}","Box_office":"{{BoxOffice}}","IMDB":"{{imdbRating}}","Creation Date":"<% tp.file.creation_date() %>","seen":true,"publish":true,"location":null,"year watched":null,"seen with":null,"rating":null,"PassFrontmatter":true}
 ---
 
 # 📺 **{{Title}}** - *{{totalSeasons|| seasons}}*
@@ -7,7 +7,8 @@
 
 **Year:** {{Year}}
 **Directed by:** {{Director}}
-**Starring:**  {{Actors}}
+**Writer:** {{Writer|"[[Templates/Moviegrabber-SeriesTemplate\|]]"}}
+**Starring:** {{Actors|"[[Templates/Moviegrabber-SeriesTemplate\|]]"}}
 **Genre:** {{genre}}
 **Run Time:** {{Runtime|| mins}}
 **Box Office:** {{BoxOffice}}

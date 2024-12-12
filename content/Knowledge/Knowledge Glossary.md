@@ -50,7 +50,6 @@
 > | [[Knowledge/Religion/Debate Concepts/How Can Something Come From Nothing\|How Can Something Come From Nothing]]                     | Debate Concepts |
 > | [[Knowledge/Religion/Debate Concepts/Kalam or First Cause\|Kalam or First Cause]]                                                   | Debate Concepts |
 > | [[Knowledge/Religion/Debate Concepts/Kurth Godel - Truth & Proof (Math + Religion)\|Kurth Godel - Truth & Proof (Math + Religion)]] | Debate Concepts |
-> | [[Knowledge/Religion/Debate Concepts/The Contingency Argument 2\|The Contingency Argument 2]]                                       | Debate Concepts |
 > | [[Knowledge/Religion/Debate Concepts/The Contingency Argument\|The Contingency Argument]]                                           | Debate Concepts |
 > | [[Knowledge/Religion/Islam/Hadith\|Hadith]]                                                                                         | Islam           |
 > | [[Knowledge/Religion/Islam/Quran - General\|Quran - General]]                                                                       | Islam           |

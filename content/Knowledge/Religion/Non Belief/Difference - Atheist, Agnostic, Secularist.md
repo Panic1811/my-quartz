@@ -2,7 +2,6 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-
 1. <mark style="background: #ABF7F7A6;">Atheist:</mark> "I have no reason to believe in a god, so I don't"
 
 2. <mark style="background: #BBFABBA6;">Agnostic:</mark> "One cannot know whether or not a god exists."

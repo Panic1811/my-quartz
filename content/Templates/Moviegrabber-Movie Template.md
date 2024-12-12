@@ -1,13 +1,14 @@
 ---
-{"type":"{{Type}}","country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":["{{Actors}}"],"genre":["{{Genre}}"],"length":"{{Runtime}}","seen with":null,"year watched":null,"rating":null,"location":null,"poster":"{{Poster}}","Box_office":"{{BoxOffice}}","RT":"{{Ratings|\"|\"|<$Rotten Tomatoes\\: .*$>}}","publish":true,"seen":true,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
+{"type":["{{Type}}"],"country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":[{"{ Actors }":null}],"genre":[{"{ Genre }":null}],"length":"{{Runtime}}","Writer":"{{writer}}","poster":"{{Poster}}","Box_office":"{{BoxOffice}}","RT":"{{Ratings|\"|\"|<$Rotten Tomatoes\\: .*$>}}","Creation Date":"<% tp.file.creation_date() %>","seen":true,"publish":true,"location":null,"year watched":null,"seen with":null,"rating":null,"PassFrontmatter":true}
 ---
 
 # 🎥 **{{Title}}** 
 *Creation Date: <% tp.file.creation_date() %>*
 
 **Year:** {{Year}}
-**Directed by:** {{Director}}
-**Starring:**  {{Actors}}
+**Directed by:** {{Director|"[[Templates/Moviegrabber-Movie Template\|]]"}}
+**Writer:** {{Writer|"[[Templates/Moviegrabber-Movie Template\|]]"}}
+**Starring:**  {{Actors|"[[Templates/Moviegrabber-Movie Template\|]]"}}
 **Genre:** {{genre}}
 **Run Time:** {{Runtime|| mins}}
 **Box Office:** {{BoxOffice}}

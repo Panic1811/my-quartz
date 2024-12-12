@@ -9,8 +9,7 @@ The **contingency argument** in theism is a philosophical argument for the exist
 Here’s a breakdown of the argument and how atheists typically counter it:
 
 ---
-
- ### **The Contingency Argument (Simplified)**
+### **The Contingency Argument (Simplified)**
 
 1. **Premise 1: Contingent Things Exist**  
     Everything we observe (people, planets, stars, etc.) could, in principle, not exist. These things are contingent because their existence depends on other factors.
@@ -26,8 +25,7 @@ Here’s a breakdown of the argument and how atheists typically counter it:
     
 
 ---
-
- ### **Atheist Counterarguments**
+### **Atheist Counterarguments**
 
 Atheists challenge the contingency argument in various ways, focusing on its assumptions and logical steps:
 
@@ -54,8 +52,8 @@ Atheists challenge the contingency argument in various ways, focusing on its ass
  #### **5. No Need for Ultimate Explanation**
 
 - **Argument:** Atheists may reject the idea that the universe _needs_ an ultimate explanation. They argue that "brute facts" (things that simply exist without explanation) could suffice.
-#### 6. Alternative Philosophical Models
+#### Alternative Philosophical Models
 
 - **Argument:** Atheists often explore alternative metaphysical frameworks, like naturalism, which don’t require positing a necessary being. These frameworks explain existence through natural laws and observable phenomena.
--
-7.From Alex: If first cause is necessary (x) and is always true, and cannot, not be true, then whatever it creates must meet this criteria to (x=y). A necessary thing cannot create a contingent thing.
+  
+- **From Alex:** If first cause is necessary (x) and is always true, and cannot, not be true, then whatever it creates must meet this criteria to (x=y). A necessary thing cannot create a contingent thing.
