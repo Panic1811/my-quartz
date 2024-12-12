@@ -23,7 +23,6 @@
 > | [[Knowledge/Science/Evolution/Human Evolution - Cool Achievements\|Human Evolution - Cool Achievements]]                                                       | Evolution |
 > | [[Knowledge/Science/Evolution/Human Evolution\|Human Evolution]]                                                                                               | Evolution |
 > | [[Knowledge/Science/Nuclear/How Does Both Nuclear Fusion and Nuclear Fission Release Energy\|How Does Both Nuclear Fusion and Nuclear Fission Release Energy]] | Nuclear   |
-> | [[Knowledge/Science/Space/How Do We Know What Other Planets Are Made Of\|How Do We Know What Other Planets Are Made Of]]                                       | Space     |
 > 
 
 > [!politics]- Politics

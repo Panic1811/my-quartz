@@ -70,3 +70,4 @@
 > > The fossil record of horses shows a clear transition from small, multi-toed forest dwellers to large, single-toed grazers over millions of years.  
 > 
 > Learn More: [Evolution](https://en.wikipedia.org/wiki/Evolution)  
+

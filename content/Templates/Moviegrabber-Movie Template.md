@@ -1,7 +1,6 @@
 ---
-{"type":"{{Type}}","country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":["{{Actors}}"],"genre":["{{Genre}}"],"length":"{{Runtime}}","seen with":null,"year watched":null,"rating":null,"location":null,"trailer_embed":"{{YoutubeEmbed}}","poster":"{{Poster}}","Box_office":"{{BoxOffice}}","RT":"{{Ratings|\"|\"|<$Rotten Tomatoes\\: .*$>}}","publish":true,"seen":true,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
+{"type":"{{Type}}","country":"{{Country}}","title":"{{Title}}","year":"{{Year}}","director":"{{Director}}","actors":["{{Actors}}"],"genre":["{{Genre}}"],"length":"{{Runtime}}","seen with":null,"year watched":null,"rating":null,"location":null,"poster":"{{Poster}}","Box_office":"{{BoxOffice}}","RT":"{{Ratings|\"|\"|<$Rotten Tomatoes\\: .*$>}}","publish":true,"seen":true,"Creation Date":"<% tp.file.creation_date() %>","PassFrontmatter":true}
 ---
-
 
 # 🎥 **{{Title}}** 
 *Creation Date: <% tp.file.creation_date() %>*
@@ -14,6 +13,9 @@
 **Box Office:** {{BoxOffice}}
 **Awards:** {{Awards}}
 **RT:** {{Ratings|"|"|<$Rotten Tomatoes\: .*$>}}
+
+> [!note]- YouTube Trailer
+> {{YoutubeEmbed}}
 
 ## 🗒️Plot
 
