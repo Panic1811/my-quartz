@@ -2,7 +2,7 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-Ethics, Morality & Theories
+## Ethics, Morality & Theories
 
 - **Ethics**: The branch of philosophy that deals with questions about what is morally right and wrong, good and bad, fair and unfair. Ethics refers to a system of moral principles or rules that guide behavior. It includes the study of various ethical theories, such as utilitarianism, deontology, and virtue ethics.
     

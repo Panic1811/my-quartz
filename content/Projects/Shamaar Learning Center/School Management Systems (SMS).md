@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"password":"nikhil","PassFrontmatter":true}
 ---
 
 ## School Management System

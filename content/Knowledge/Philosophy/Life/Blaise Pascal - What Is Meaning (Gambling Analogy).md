@@ -2,9 +2,9 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-Blaise Pascal - What is meaning? (Gambling Analogy)
+## Blaise Pascal - What is meaning? (Gambling Analogy)
 
-**Blaise Pascal**, a 17th-century mathematician, philosopher, and theologian. While this specific "gamblers" analogy isn’t directly from Pascal's writings, it resonates with his broader ideas about human nature and the search for meaning, especially in his famous work, the _Pensées_. Let me explain how it ties into his philosophy:
+**Blaise Pascal**, a 17th-century mathematician, philosopher, and theologian. 
 
 ---
 

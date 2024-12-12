@@ -2,7 +2,7 @@
 {"publish":true,"PassFrontmatter":true}
 ---
 
-- **Facts, laws, and theories** all work together in science:
+**Facts, laws, and theories** all work together in science:
     - **Facts** provide the observations and data.
     - **Laws** summarize patterns in those facts.
     - **Theories** explain why those patterns exist.

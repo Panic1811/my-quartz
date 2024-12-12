@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true,"password":1234}
+{"publish":true,"password":"nikhil","PassFrontmatter":true}
 ---
 
 ## The Problem
