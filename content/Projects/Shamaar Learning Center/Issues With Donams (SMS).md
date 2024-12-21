@@ -235,13 +235,15 @@ If a student joins, part of the registration fees the parents pay includes a stu
 ### 2. Some Extra Questions For Donams CS
 
 1. Custom Reports View?
-2. More Export/import CSV Functionality?
+2. Parents sign up link? I see there is in *Admissions → Admission Settings → Online Admission Form* -  Where is the link?
+3. Student settings where one choses fields, 2nd page is broken.  Delete address doesnt work. (id 1212)
+4. More Export/import CSV Functionality?
    - What's the format to be followed? Can we add more fields? (Ex Import Old Fees)
-3. Backup Possibility? 
-4. How Does the Pricing Model Work?
-5. Is the 500 Seat Cap Just Active Users or Active + Inactive?
-6. Can You Provide Documentation?
-8. More…
+5. Backup Possibility? 
+6. How Does the Pricing Model Work?
+7. Is the 500 Seat Cap Just Active Users or Active + Inactive?
+8. Can You Provide Documentation?
+9. More…
 
 ### 3. New School Management System
 
