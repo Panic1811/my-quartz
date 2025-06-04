@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":"cards cards-cover cards-2-3 table-max"}
+{"publish":true,"cssclasses":"cards cards-cover cards-1-1 table-max cards-cols-2"}
 ---
 
 | Poster                                                                                                                  | Title                                                                                                                                   | Year | Runtime  | Director                     | Rating | Rotten Tomatoes | Box Office   |
