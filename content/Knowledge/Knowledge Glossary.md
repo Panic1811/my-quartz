@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Creation Date":"2024-12-10 04:51","Modified Date":"Tuesday 10th December 2024 04:51:03","cssclasses":["cards","table-max","table-wide"],"PassFrontmatter":true}
+{"publish":true,"cssclasses":"cards table-max table-wide"}
 ---
 
 ## Click Any of the ">" in the Desired Category
@@ -88,3 +88,9 @@
 > 
 ---
 
+>[!General]- Game Design
+> |                                                                                                                                                                             | Folder      |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+> | [[Knowledge/Game Design/Perceived Counterplay and Actual Counterplay Affect Player Frustration\|Perceived Counterplay and Actual Counterplay Affect Player Frustration]] | Game Design |
+> | [[Knowledge/Game Design/Hero Balance in Competitive Games\|Hero Balance in Competitive Games]]                                                                           | Game Design |
+> 

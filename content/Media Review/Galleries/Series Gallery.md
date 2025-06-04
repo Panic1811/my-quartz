@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["cards","cards-cover","cards-2-3","table-max"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":"cards cards-cover cards-2-3 table-max"}
 ---
 
 | Poster                                                                                                                  | Title                                                                  | Year      | Actor                                                                         | IMDB        | Rating | length       |
