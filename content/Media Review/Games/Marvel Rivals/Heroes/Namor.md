@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Namor","role":"Duelist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/namor.webp","intro":"The unrivaled King of the Seas, Namor surfs into battle on a mighty wave with an army of fierce aquatic creatures in his wake. When ancient horns of war blare, devastation soon follows as deadly waters engulf the arena.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Namor

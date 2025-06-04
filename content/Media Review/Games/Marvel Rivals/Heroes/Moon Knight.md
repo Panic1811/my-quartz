@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Moon Knight","role":"Duelist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/moon-knight.webp","intro":"As the avatar of the Egyptian God of Vengeance, Marc Spector's body has been enhanced by Khonshu himself. Bathed in a luminous aura that pierces the darkness, Moon Knight glides through the night, ready to sear his enemies with his master's sacred Ankhs.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Moon Knight

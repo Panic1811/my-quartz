@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Full Read-Through - Pt 5

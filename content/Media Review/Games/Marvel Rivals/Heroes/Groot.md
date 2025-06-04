@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Groot","role":"Vanguard","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/groot.webp","intro":"A flora colossus from Planet X, the alien known as Groot exhibits enhanced vitality and the ability to manipulate all forms of vegetation. As sturdy as a towering tree, Groot forges his own way, serving as the team's silent but reliable pathfinder.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["economics"],"definition":"“A statistical measure that tracks the weighted average of prices of a basket of goods and services consumed by households, used to measure inflation and the cost of living.”","aliases":["CPI"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["economics"],"cssclasses":""}
 ---
 
 ### Consumer Price Index (CPI)

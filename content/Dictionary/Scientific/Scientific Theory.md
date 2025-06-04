@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 An explanation supported by evidence (e.g., "Rayleigh scattering explains why the sky appears blue"). Theories are the highest form of scientific knowledge. Yet to be unproven. 

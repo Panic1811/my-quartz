@@ -1,5 +1,5 @@
 ---
-{"tags":["General"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["General"],"cssclasses":""}
 ---
 
 ### Reparation

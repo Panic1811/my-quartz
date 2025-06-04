@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 A testable guess about why or how something happens (e.g., "The sky is blue because of scattered sunlight").

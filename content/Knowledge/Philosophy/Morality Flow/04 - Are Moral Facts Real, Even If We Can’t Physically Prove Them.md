@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Full Read-Through - Pt 4
@@ -20,7 +20,7 @@
 
 Induction is a type of reasoning where we make generalizations based on specific observations. For example, if you see the sun rise every day, you might induce that it will rise tomorrow too. This works in many cases, but there's a problem: we can't prove tomorrow’s sunrise by looking at today’s alone—it’s always possible that the sun might not rise, even if it seems extremely unlikely.
 
-This is called the **problem of induction**: we can make reasonable predictions based on past experience, but those predictions can't be **absolutely** proven—they’re always based on **probability**, not certainty. The same can be said about **[[Dictionary/Scientific/Scientific Law\|Scientific Law]]**—they’re based on observed patterns, but we can never fully prove they will always hold true in every situation.
+This is called the **problem of induction**: we can make reasonable predictions based on past experience, but those predictions can't be **absolutely** proven—they’re always based on **probability**, not certainty. The same can be said about **[[Dictionary/Scientific/Scientific Law]]**—they’re based on observed patterns, but we can never fully prove they will always hold true in every situation.
 
 ### Can We Prove Moral Facts Like Physical Facts?
 

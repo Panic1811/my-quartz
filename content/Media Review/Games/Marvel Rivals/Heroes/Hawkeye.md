@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Hawkeye","role":"Duelist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/hawkeye.webp","intro":"Despite his lack of superpowers, Hawkeye's unparalleled skills as a marksman have earned him a spot alongside earth's mightiest heroes. With a cool head and steady hand, Clint Barton never misses a target… so enemies best stay out of his sights!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

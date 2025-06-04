@@ -1,5 +1,5 @@
 ---
-{"tags":["#philosophy"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["#philosophy"],"cssclasses":""}
 ---
 
 Aristotle called it the **"Unmoved Mover"** because he was trying to explain the ultimate cause of all motion (or change) in the universe without falling into an infinite regress of causes.

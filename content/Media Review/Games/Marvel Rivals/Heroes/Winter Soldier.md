@@ -1,5 +1,5 @@
 ---
-{"hero_name":"WINTER SOLDIER","role":"Duelist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/winter-soldier.webp","intro":"Terrifying experiments turned him into a brainwashed assassin, but now Bucky Barnes fights to right his past wrongs as the Winter Soldier.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

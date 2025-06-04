@@ -1,5 +1,5 @@
 ---
-{"tags":["science"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["science"],"cssclasses":""}
 ---
 
 ### Noun

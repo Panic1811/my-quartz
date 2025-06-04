@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Hulk","role":"Vanguard","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/hulk.webp","intro":"Brilliant scientist Dr. Bruce Banner has finally found a way to coexist with his monstrous alter ego, the Hulk. By accumulating gamma energy over multiple transformations, he can become a wise and strong Hero Hulk or a fierce and destructive Monster Hulk – a true force of fury on the battlefield!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

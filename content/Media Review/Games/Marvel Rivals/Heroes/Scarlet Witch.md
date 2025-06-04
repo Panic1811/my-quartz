@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Scarlet Witch","role":"Duelist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/scarlet-witch.webp","intro":"Wanda Maximoff is adept at harnessing formidable chaos magic, casting hexes with the power to twist and reshape reality itself. Energy, space, and matter are mere playthings in the hands of Scarlet Witch!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Scarlet Witch

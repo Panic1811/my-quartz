@@ -1,5 +1,5 @@
 ---
-{"tags":["politics"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["politics"],"cssclasses":""}
 ---
 
 ### UNRWA

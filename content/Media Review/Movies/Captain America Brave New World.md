@@ -1,14 +1,14 @@
 ---
-{"type":["movie"],"country":"United States","title":"Captain America Brave New World","year":"2025","director":"Julius Onah","actors":["Harrison Ford","Liv Tyler","Rosa Salazar"],"genre":["Action","Adventure","Sci-Fi"],"length":"118","Writer":"Rob Edwards, Malcolm Spellman, Dalan Musson","poster":"https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_SX300.jpg","Box_office":"N/A","RT":"\"Rotten Tomatoes: 50%\"","Creation Date":"2025-03-04 22:07","seen":true,"publish":true,"location":"dubai, nakheel","year watched":"2025","seen with":["Mirza","Palak"],"rating":"7.1","PassFrontmatter":true}
+{"publish":true,"title":"Captain America Brave New World","cssclasses":""}
 ---
 
 # 🎥 **Captain America Brave New World** 
 *Creation Date: 2025-03-04 22:07*
 
 **Year:** 2025
-**Directed by:** "[[Julius Onah\|Julius Onah]]"
-**Writer:** "[[Rob Edwards\|Rob Edwards]]", "[[Malcolm Spellman\|Malcolm Spellman]]", "[[Dalan Musson\|Dalan Musson]]"
-**Starring:**  "[[Harrison Ford\|Harrison Ford]]", "[[Liv Tyler\|Liv Tyler]]", "[[Rosa Salazar\|Rosa Salazar]]"
+**Directed by:** "[[Julius Onah]]"
+**Writer:** "[[Rob Edwards]]", "[[Malcolm Spellman]]", "[[Dalan Musson]]"
+**Starring:**  "[[Harrison Ford]]", "[[Liv Tyler]]", "[[Rosa Salazar]]"
 **Genre:** Action, Adventure, Sci-Fi
 **Run Time:** 118 mins
 **Box Office:** N/A

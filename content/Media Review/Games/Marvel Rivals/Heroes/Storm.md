@@ -1,5 +1,5 @@
 ---
-{"hero_name":"STORM","role":"Duelist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/storm.webp","intro":"An Omega-level mutant with the ability to manipulate weather, Ororo Munroe wields the elements to protect and defend.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

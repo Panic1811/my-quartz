@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Cloak & Dagger","role":"Strategist","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/cloak-and-dagger.webp","intro":"Tyrone Johnson and Tandy Bowen are nearly inseparable, like two sides of the same coin. Intertwined by forces of shadow and light, Cloak & Dagger fight as a united front, dealing havoc and healing allies across the arena.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

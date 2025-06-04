@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Adam Warlock","role":"Strategist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/adam-warlock.webp","intro":"The genetically-engineered Adam Warlock wields mighty Quantum Magic, allowing him to connect and heal souls with a gentle touch. When the time comes for his allies to unite, Warlock emerges as the unwavering epicenter of cosmic justice!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

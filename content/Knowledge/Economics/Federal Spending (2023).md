@@ -1,12 +1,12 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Federal Spending Overview (2023)
 
 Understanding federal spending requires breaking it into three main categories: **discretionary spending**, **mandatory spending**, and **interest on the debt**. Below is a detailed look at these components for 2023, along with visualizations using the Chartsview plugin.
 
-![Federal Spending (2023)-20241130184736237.png|495](../../Images/Federal%20Spending%20(2023)-20241130184736237.png)
+![[../../Images/Federal Spending (2023)-20241130184736237.png|495]]
 
 ---
 

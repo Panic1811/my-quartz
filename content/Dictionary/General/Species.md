@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["General"],"definition":"“A group of living organisms consisting of similar individuals that can exchange genes or interbreed.”","PassFrontmatter":true}
+{"publish":true,"tags":["General"],"cssclasses":""}
 ---
 
 ### Species

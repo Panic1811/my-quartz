@@ -1,5 +1,5 @@
 ---
-{"hero_name":"VENOM","role":"Vanguard","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/venom.webp","intro":"Using his symbiote-enhanced body as the perfect weapon, Eddie Brock is the menacing anti-hero, Venom.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

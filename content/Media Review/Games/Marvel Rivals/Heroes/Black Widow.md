@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Black Widow","role":"Duelist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/black-widow.webp","intro":"Natasha Romanova is the world's most elite spy in any era. Her mastery of the sniper rifle eliminates targets from afar, while her shock batons neutralize close-range threats. Black Widow is locked, loaded, and ready to deliver a fatal bite!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

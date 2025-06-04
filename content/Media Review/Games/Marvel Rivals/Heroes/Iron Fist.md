@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Iron Fist","role":"Duelist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/iron-fist.webp","intro":"Lin Lie is a master of Chinese martial arts who once wielded the shattered Sword of Fu Xi. After fusing its pieces with the mighty Chi of Shou-Lao, he is poised to strike his foes with the grace and force of a soaring dragon as the latest immortal Iron Fist.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

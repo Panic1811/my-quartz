@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Captain America","role":"Vanguard","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/captain-america.webp","intro":"Enhanced by the Super-Soldier Serum, Steven 'Steve' Rogers uses his Vibranium shield and extensive combat training to confront any threat to justice. When Captain America rallies his troops, a wave of courage sweeps across the battlefield!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

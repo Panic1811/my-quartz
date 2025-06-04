@@ -1,8 +1,8 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-[[Image of Evolution\|Image of Evolution]]
+[[Image of Evolution]]
 
 - The **fact** of evolution is based on observations (e.g., fossil records, genetic similarities).
 - The **theory of evolution** explains these observations with mechanisms like natural selection.
@@ -108,4 +108,4 @@ Let’s consider the evolution of whales:
 
 ### **Conclusion**
 
-Fossils help scientists understand how traits evolved by showing patterns of change over time. By combining fossil evidence with genetics, anatomy, and ecological studies, scientists can infer how traits helped [[Dictionary/General/Species\|Species]] adapt and survive. This strengthens the **theory of evolution**, making it one of the most robust scientific explanations we have.
+Fossils help scientists understand how traits evolved by showing patterns of change over time. By combining fossil evidence with genetics, anatomy, and ecological studies, scientists can infer how traits helped [[Dictionary/General/Species]] adapt and survive. This strengthens the **theory of evolution**, making it one of the most robust scientific explanations we have.

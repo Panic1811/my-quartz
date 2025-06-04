@@ -1,5 +1,5 @@
 ---
-{"tags":["religion"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["religion"],"cssclasses":""}
 ---
 
 ### Proselytize

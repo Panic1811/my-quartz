@@ -1,5 +1,5 @@
 ---
-{"hero_name":"WOLVERINE","role":"Duelist","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/wolverine.webp","intro":"Thanks to his regenerative healing factor and Adamantium claws, Logan, aka Wolverine, is nearly unstoppable on the battlefield.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Jeff the Land Shark","role":"Strategist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/jeff.webp","intro":"Most landsharks are vicious creatures of the deep... but not Jeff! This adorable and mischievous little landshark brings splashes of joy and healing to every battle. But if the tide turns, Jeff can morph into a voracious beast, swallowing an army of foes in one giant gulp!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Jeff the Land Shark

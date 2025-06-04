@@ -1,12 +1,12 @@
 ---
-{"tags":["science"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["science"],"cssclasses":""}
 ---
 
 ### Noun
 
 The act of merging separate elements, or the result thereof.
 
-Also considered with [[Dictionary/Scientific/Nuclear Fusion\|Nuclear Fusion]]
+Also considered with [[Dictionary/Scientific/Nuclear Fusion]]
 
 
 ### Verb

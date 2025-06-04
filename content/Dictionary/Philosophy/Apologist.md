@@ -1,5 +1,5 @@
 ---
-{"tags":["philosophy"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["philosophy"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 A consistent rule describing what happens (e.g., "Gas laws describe how pressure, volume, and temperature interact").

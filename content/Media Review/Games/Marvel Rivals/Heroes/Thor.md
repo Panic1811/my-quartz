@@ -1,5 +1,5 @@
 ---
-{"hero_name":"THOR","role":"Vanguard","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/thor.webp","intro":"The son of Odin taps into his divine power to wield Mjolnir, summoning the fury of storms to vanquish his foes.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

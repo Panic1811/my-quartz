@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Hela","role":"Duelist","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/hela.webp","intro":"As the Goddess of Death, Hela wields supreme control over the fallen souls residing in Hel. With a haunting whisper and a murder of crows, the queen of the underworld gracefully reaps the souls of her enemies without an ounce of mercy.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

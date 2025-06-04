@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Spider Man","role":"Duelist","rating":"⭐⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/spider-man.webp","intro":"Swinging around the arena on his signature weblines, your friendly neighborhood Spider-Man, AKA Peter Parker, catches his rivals by surprise with sneaky, sticky bursts of webbing and unexpected attacks from above. Look out… here comes the Spider-Man!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Spider-Man

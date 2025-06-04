@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 ## What is the Fine-Tuning Argument?
@@ -51,7 +51,7 @@ Atheists and skeptics respond to the fine-tuning argument in several ways:
 2. **Anthropic Principle**:
     
     - We can only observe a universe where the constants allow for life because if they didn’t, we wouldn’t be here to notice it. This doesn’t mean the universe was designed; it’s just that life can only exist in a life-friendly universe.
-3. [[We Don’t Know Enough\|We Don’t Know Enough]]
+3. [[We Don’t Know Enough]]
     
     - Critics argue that just because we don’t yet understand why the constants are the way they are doesn’t mean they were designed. Future discoveries in physics could explain these constants naturally.
 4. **Probability Issues**:

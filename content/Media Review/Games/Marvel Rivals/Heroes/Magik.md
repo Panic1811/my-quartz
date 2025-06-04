@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Magik","role":"Duelist","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/magik.webp","intro":"Trained in the dark arts and wielding her mighty Soulsword, Magik leaps through portals to navigate the arena with ease. Once Illyana transforms into the demonic Darkchylde, all who dare stand against her will fall before her merciless blade.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Rocket Raccoon","role":"Strategist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/rocket-raccoon.webp","intro":"Rocket may not look like a tech genius or an expert tactician, but this Guardian of the Galaxy is as fierce as he is clever.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # ROCKET RACCOON

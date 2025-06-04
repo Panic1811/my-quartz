@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Loki","role":"Strategist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/loki.webp","intro":"What greater thrill is there for a God of Mischief than to outsmart his foes? The cunning trickster Loki uses his illusions and shapeshifting abilities to weave in and out of combat, toying with enemies at every turn.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

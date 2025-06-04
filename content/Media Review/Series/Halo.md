@@ -1,5 +1,5 @@
 ---
-{"type":["series"],"country":"United States","title":"Halo","year":"2022–2024","director":"N/A","actors":["Pablo Schreiber","Shabana Azmi","Natasha Culzac"],"genre":["Action","Adventure","Sci-Fi"],"length":"2","Writer":"Steven Kane, Kyle Killen","poster":"https://m.media-amazon.com/images/M/MV5BYzNkODg3OTYtM2EyZC00NmEyLTgzZDktYjY5NGNjZmQ5ZDRiXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"undefined","IMDB":"7.3","Creation Date":"2025-03-04 22:10","seen":true,"publish":true,"location":"Dubai","year watched":"2025","seen with":["dhruv","Shreyash"],"rating":"8.1","PassFrontmatter":true}
+{"publish":true,"title":"Halo","cssclasses":""}
 ---
 
 # 📺 **Halo** - *2 seasons*
@@ -7,8 +7,8 @@
 
 **Year:** 2022–2024
 **Directed by:** N/A
-**Writer:** "[[Steven Kane\|Steven Kane]]", "[[Kyle Killen\|Kyle Killen]]"
-**Starring:** "[[Pablo Schreiber\|Pablo Schreiber]]", "[[Shabana Azmi\|Shabana Azmi]]", "[[Natasha Culzac\|Natasha Culzac]]"
+**Writer:** "[[Steven Kane]]", "[[Kyle Killen]]"
+**Starring:** "[[Pablo Schreiber]]", "[[Shabana Azmi]]", "[[Natasha Culzac]]"
 **Genre:** Action, Adventure, Sci-Fi
 **Run Time:** N/A mins
 **Box Office:** undefined

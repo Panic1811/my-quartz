@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Doctor Strange","role":"Vanguard","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/doctor-strange.webp","intro":"As the Sorcerer Supreme, Doctor Stephen Strange gracefully wields ancient spells to turn the tide of even the most impossible battle. However, magic always comes at a cost, and each use of his arcane abilities gradually awakens the darkness within him.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

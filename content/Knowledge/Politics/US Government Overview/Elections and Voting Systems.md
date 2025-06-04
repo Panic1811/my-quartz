@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 In the U.S., elections happen at **federal**, **state**, and **local** levels. Primaries select party candidates for the general election.

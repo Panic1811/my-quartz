@@ -1,5 +1,5 @@
 ---
-{"type":["series"],"country":"United States, Colombia","title":"Narcos","year":"2015–2017","director":"N/A","actors":["Pedro Pascal","Wagner Moura","Boyd Holbrook"],"genre":["Biography","Crime","Drama"],"length":"3","Writer":"Carlo Bernard, Chris Brancato, Doug Miro","poster":"https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_SX300.jpg","Box_office":"undefined","IMDB":"8.7","Creation Date":"2024-12-12 05:01","seen":true,"publish":true,"location":"Dubai","year watched":"2024","seen with":"Myself","rating":"8.1","PassFrontmatter":true}
+{"publish":true,"title":"Narcos","cssclasses":""}
 ---
 
 # 📺 **Narcos** - *3 seasons*
@@ -7,8 +7,8 @@
 
 **Year:** 2015–2017
 **Directed by:** N/A
-**Writer:** "[[Carlo Bernard\|Carlo Bernard]]", "[[Chris Brancato\|Chris Brancato]]", "[[Doug Miro\|Doug Miro]]"
-**Starring:** "[[Pedro Pascal\|Pedro Pascal]]", "[[Wagner Moura\|Wagner Moura]]", "[[Boyd Holbrook\|Boyd Holbrook]]"
+**Writer:** "[[Carlo Bernard]]", "[[Chris Brancato]]", "[[Doug Miro]]"
+**Starring:** "[[Pedro Pascal]]", "[[Wagner Moura]]", "[[Boyd Holbrook]]"
 **Genre:** Biography, Crime, Drama
 **Run Time:** 49 mins
 **Box Office:** undefined

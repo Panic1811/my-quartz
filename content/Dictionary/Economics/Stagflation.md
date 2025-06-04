@@ -1,5 +1,5 @@
 ---
-{"tags":["economics"],"definition":"A rare economic condition characterized by a combination of stagnant economic growth, high inflation, and high unemployment.","publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["economics"],"cssclasses":""}
 ---
 
 ### Stagflation

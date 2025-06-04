@@ -1,5 +1,5 @@
 ---
-{"hero_name":"THE PUNISHER","role":"Duelist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/the-punisher.webp","intro":"Expertly wielding a full arsenal of futuristic weaponry, Frank Castle punishes those who dare threaten the innocent.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # THE PUNISHER

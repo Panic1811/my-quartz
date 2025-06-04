@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
   There are things in the prior media atmosphere, especially from 2016-2024, that are incredibly unfavorable to "the left" and "the establishment."

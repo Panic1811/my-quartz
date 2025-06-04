@@ -1,5 +1,5 @@
 ---
-{"tags":["#staff"],"Role":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["#staff"],"cssclasses":""}
 ---
 
 # Staff Workflow Analysis

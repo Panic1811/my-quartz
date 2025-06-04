@@ -1,5 +1,5 @@
 ---
-{"hero_name":"SQUIRREL GIRL","role":"Duelist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/squirrel-girl.webp","intro":"Possessing only the powers of a common squirrel and a winning personality, Doreen Green is anything but ordinary.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

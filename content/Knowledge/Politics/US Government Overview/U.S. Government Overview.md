@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 The U.S. government is a federal republic, with **three branches**: **Executive**, **Legislative**, and **Judicial**.

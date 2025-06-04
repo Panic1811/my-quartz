@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Mantis","role":"Strategist","rating":"⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/mantis.webp","intro":"Mantis uses her impressive mental abilities and her penchant for plant control to anchor any team she fights alongside. Her powers tap into a limitless flow of life energy, gently nourishing everything she touches.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

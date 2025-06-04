@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Psylocke","role":"Duelist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/psylocke.webp","intro":"The psychic warrior known as Sai has the Mutant ability to conjure a variety of weapons with the power of her mind. Gracefully gliding across the battlefield, this trained ninja can shatter the enemy's defenses with a single thought.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Psylocke

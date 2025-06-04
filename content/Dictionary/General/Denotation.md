@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 Denotation is the literal dictionary definition of a word, stripped of any emotions, implications, or associations it may carry.

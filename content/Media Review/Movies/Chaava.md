@@ -1,14 +1,14 @@
 ---
-{"type":["movie"],"country":"India","title":"Chaava","year":"2024","director":"Laxman Utekar","actors":["Vicky Kaushal","Rashmika Mandanna"],"genre":["Drama"],"length":"N/A","Writer":"N/A","poster":"N/A","Box_office":"N/A","RT":"","Creation Date":"2025-03-04 22:12","seen":true,"publish":true,"location":"Dubai","year watched":"2025","seen with":["Rohit","Palak"],"rating":"7.8","PassFrontmatter":true}
+{"publish":true,"title":"Chaava","cssclasses":""}
 ---
 
 # 🎥 **Chaava** 
 *Creation Date: 2025-03-04 22:12*
 
 **Year:** 2024
-**Directed by:** "[[Laxman Utekar\|Laxman Utekar]]"
-**Writer:** "[[N/A\|N/A]]"
-**Starring:**  "[[Vicky Kaushal\|Vicky Kaushal]]", "[[Rashmika Mandanna\|Rashmika Mandanna]]"
+**Directed by:** "[[Laxman Utekar]]"
+**Writer:** "[[N/A]]"
+**Starring:**  "[[Vicky Kaushal]]", "[[Rashmika Mandanna]]"
 **Genre:** Drama
 **Run Time:** N/A mins
 **Box Office:** N/A

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["philosophy"],"definition":"“Knowledge or justification that is independent of experience, as opposed to a posteriori knowledge, which is derived from experience.”","PassFrontmatter":true}
+{"publish":true,"tags":["philosophy"],"cssclasses":""}
 ---
 
 ### A Priori

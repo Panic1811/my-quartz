@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 Gödel's **gap between truth and proof** refers to a fundamental idea in logic and mathematics, introduced by the mathematician **Kurt Gödel**. The basic idea is that in any complex system of logic or mathematics, there will always be true statements that **cannot be proven** within that system.

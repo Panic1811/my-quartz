@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Black Panther","role":"Duelist","rating":"⭐⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/black-panther.webp","intro":"T'Challa, King of Wakanda, wields the perfect blend of the cutting-edge Vibranium technology and ancestral power drawn from the Panther God, Bast. The Black Panther bides his time until elegantly infiltrating enemy lines and commencing his hunt.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

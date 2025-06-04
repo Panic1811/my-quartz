@@ -1,14 +1,14 @@
 ---
-{"type":["movie"],"country":"United States","title":"Nosferatu","year":"2024","director":"Robert Eggers","actors":["Lily-Rose Depp","Nicholas Hoult","Bill Skarsgård"],"genre":["Fantasy","Horror","Mystery"],"length":"133","Writer":"Robert Eggers, Henrik Galeen, Bram Stoker","poster":"https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"N/A","RT":"\"Rotten Tomatoes: 94%\"","Creation Date":"2025-01-14 05:19","seen":true,"publish":true,"location":"Dubai","year watched":"2025","seen with":["Palak","Mirza"],"rating":"8","PassFrontmatter":true}
+{"publish":true,"title":"Nosferatu","cssclasses":""}
 ---
 
 # 🎥 **Nosferatu** 
 *Creation Date: 2025-01-14 05:19*
 
 **Year:** 2024
-**Directed by:** "[[Robert Eggers\|Robert Eggers]]"
-**Writer:** "[[Robert Eggers\|Robert Eggers]]", "[[Henrik Galeen\|Henrik Galeen]]", "[[Bram Stoker\|Bram Stoker]]"
-**Starring:**  "[[Lily-Rose Depp\|Lily-Rose Depp]]", "[[Nicholas Hoult\|Nicholas Hoult]]", "[[Bill Skarsgård\|Bill Skarsgård]]"
+**Directed by:** "[[Robert Eggers]]"
+**Writer:** "[[Robert Eggers]]", "[[Henrik Galeen]]", "[[Bram Stoker]]"
+**Starring:**  "[[Lily-Rose Depp]]", "[[Nicholas Hoult]]", "[[Bill Skarsgård]]"
 **Genre:** Fantasy, Horror, Mystery
 **Run Time:** 133 mins
 **Box Office:** N/A

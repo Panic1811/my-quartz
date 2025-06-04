@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Magneto","role":"Vanguard","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/magneto.webp","intro":"The Master of Magnetism bends even the strongest metal to his whims, shielding his allies and striking at his foes. Whether he calls himself Max Eisenhardt, Erik Lehnsherr, or simply Magneto, the hardships this warrior has endured have made him as unbreakable as the steel he brandishes.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["politics"],"definition":"The act of giving formal approval or confirmation to a treaty, agreement, or other document.","publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["politics"],"cssclasses":""}
 ---
 
 ### Ratification

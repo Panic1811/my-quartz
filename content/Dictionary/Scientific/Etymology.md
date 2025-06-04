@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 Etymology is about the origin and history of a word—where it came from and how its meaning has evolved over time.

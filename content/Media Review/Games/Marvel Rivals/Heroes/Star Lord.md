@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Star Lord","role":"Duelist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/star-lord.webp","intro":"Peter Quill lives to dazzle his foes on the battlefield with dual Element Guns, a charming personality, and unrelenting heroism.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Luna Snow","role":"Strategist","rating":"⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/luna-snow.webp","intro":"Equal parts pop star and Super Hero, Luna Snow puts on a dazzling show with both her light and dark ice powers. The arena is her stage, where Seol Hee and her team orchestrate spectacular displays that earn her an ever-increasing number of fans and wins.","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 

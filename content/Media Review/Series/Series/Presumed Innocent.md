@@ -1,5 +1,5 @@
 ---
-{"type":["series"],"country":"United States","title":"Presumed Innocent","year":"2024","director":"N/A","actors":["Jake Gyllenhaal","Ruth Negga","Bill Camp"],"genre":["Crime","Drama","Mystery"],"length":"1","Writer":"N/A","poster":"https://m.media-amazon.com/images/M/MV5BNDk1MWM3NmItZmNjZS00ZmZkLTk1ZDAtZjFiN2FiZjczNmZhXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"undefined","IMDB":"7.7","Creation Date":"2024-12-12 05:28","seen":true,"publish":true,"location":"Dubai","year watched":"2024","seen with":"Myself","rating":"8.2","PassFrontmatter":true}
+{"publish":true,"title":"Presumed Innocent","cssclasses":""}
 ---
 
 # 📺 **Presumed Innocent** - *1 seasons*
@@ -8,7 +8,7 @@
 **Year:** 2024
 **Directed by:** N/A
 **Writer:** "N/A"
-**Starring:** "[[Jake Gyllenhaal\|Jake Gyllenhaal]]", "[[Ruth Negga\|Ruth Negga]]", "[[Bill Camp\|Bill Camp]]"
+**Starring:** "[[Jake Gyllenhaal]]", "[[Ruth Negga]]", "[[Bill Camp]]"
 **Genre:** Crime, Drama, Mystery
 **Run Time:** N/A mins
 **Box Office:** undefined

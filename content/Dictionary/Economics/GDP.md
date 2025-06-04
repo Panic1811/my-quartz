@@ -1,5 +1,5 @@
 ---
-{"tags":["economics"],"definition":"The total value of goods and services produced within a country's borders over a specific period of time, typically a year.","aliases":["Gross Domestic Product"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["economics"],"cssclasses":""}
 ---
 
 ### GDP

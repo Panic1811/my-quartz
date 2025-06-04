@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 *Federal Reserve: Better to Target Inflation vs. Unemployment?*
@@ -7,7 +7,7 @@
 ## Introduction
 The Federal Reserve's dual mandate aims to achieve **maximum employment** and **stable prices**. However, in practice, prioritizing one over the other can lead to trade-offs that affect both the economy's reality and public perception.
 
-- **Inflation**: The general rise in prices across goods and services. Measured by indices such as the [[Dictionary/Economics/Consumer Price Index (CPI)\|Consumer Price Index (CPI)]])** or the **Personal Consumption Expenditures (PCE) Price Index**.
+- **Inflation**: The general rise in prices across goods and services. Measured by indices such as the [[Dictionary/Economics/Consumer Price Index (CPI)]])** or the **Personal Consumption Expenditures (PCE) Price Index**.
 - **Unemployment**: The percentage of the labor force that is jobless, actively seeking work, and available to work. Calculated using the **U-3 unemployment rate**, as reported by the Bureau of Labor Statistics.
 
 While both are critical to economic stability, public confidence in the economy often depends more on perception than objective data.

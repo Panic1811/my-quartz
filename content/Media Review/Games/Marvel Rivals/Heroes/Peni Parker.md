@@ -1,5 +1,5 @@
 ---
-{"hero_name":"Peni Parker","role":"Vanguard","rating":"⭐⭐⭐","publish":true,"poster":"https://marvelrivalscharacters.com/characters/peni-parker.webp","intro":"Peni Parker may be young, but she bravely stands on the frontlines to protect the Web of Life and Destiny. Together, this teen prodigy and her state-of-the-art mech, the sensational SP//dr, make for the most thrilling duo on the battlefield!","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Peni Parker
