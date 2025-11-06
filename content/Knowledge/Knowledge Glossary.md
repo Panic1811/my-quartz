@@ -95,3 +95,23 @@
 > | [[Knowledge/Game Design/Hero Balance in Competitive Games\|Hero Balance in Competitive Games]]                                                                           | Game Design |
 > | [[Knowledge/Game Design/Perceived Counterplay and Actual Counterplay Affect Player Frustration\|Perceived Counterplay and Actual Counterplay Affect Player Frustration]] | Game Design |
 > 
+
+>[!General]- Cinema
+> |                                                                        | Folder |
+> | ---------------------------------------------------------------------- | ------ |
+> | [[Knowledge/Cinema/The Disappearing Actor\|The Disappearing Actor]] | Cinema |
+> 
+
+>[!General]- Music
+> |                                                             | Folder |
+> | ----------------------------------------------------------- | ------ |
+> | [[Knowledge/Music/Chord Progression\|Chord Progression]] | Music  |
+> | [[Knowledge/Music/Melodies\|Melodies]]                   | Music  |
+> 
+
+>[!General]- AI
+> |                                              | Folder |
+> | -------------------------------------------- | ------ |
+> | [[Knowledge/AI/AI Acronyms\|AI Acronyms]] | AI     |
+> 
+
