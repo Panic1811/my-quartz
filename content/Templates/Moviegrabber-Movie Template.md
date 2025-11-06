@@ -35,3 +35,4 @@
 5. **Overall:** 
 	- (:Story + :Acting + :Cinematography + :Music)/4 = 
 
+## 📺 My Thoughts

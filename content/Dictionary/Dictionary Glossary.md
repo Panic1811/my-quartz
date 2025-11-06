@@ -13,6 +13,7 @@
 > | [[Dictionary/General/Dogmatic\|Dogmatic]]     |
 > | [[Dictionary/General/Hubris\|Hubris]]         |
 > | [[Dictionary/General/Immutable\|Immutable]]   |
+> | [[Dictionary/General/Polsemous\|Polsemous]]   |
 > | [[Dictionary/General/Posits\|Posits]]         |
 > | [[Dictionary/General/Reparation\|Reparation]] |
 > | [[Dictionary/General/Species\|Species]]       |

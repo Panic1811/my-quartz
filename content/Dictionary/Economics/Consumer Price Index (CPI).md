@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["economics"],"cssclasses":""}
+{"publish":true,"aliases":"CPI","tags":["economics"],"cssclasses":""}
 ---
 
 ### Consumer Price Index (CPI)

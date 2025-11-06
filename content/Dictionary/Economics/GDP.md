@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["economics"],"cssclasses":""}
+{"publish":true,"aliases":"Gross Domestic Product","tags":["economics"],"cssclasses":""}
 ---
 
 ### GDP

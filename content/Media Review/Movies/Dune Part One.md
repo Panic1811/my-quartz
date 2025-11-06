@@ -10,7 +10,7 @@
 **Starring:**  Timothée Chalamet, Rebecca Ferguson, Zendaya
 **Genre:** Action, Adventure, Drama
 **Run Time:** 155 mins
-**Box Office:** **Box Office:**08,897,830
+**Box Office:** **Box Office:** $410,668,018
 **Awards:** Won 6 Oscars. 177 wins & 300 nominations total
 **RT:** Rotten Tomatoes: 83%
 

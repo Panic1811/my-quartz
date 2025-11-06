@@ -8,7 +8,7 @@
 
 In the past, critical thinking was deeply tied to tangible reality. The tools and systems we relied upon, like the abacus, were physical and transparent in their operation. You could see how beads slid along rods to represent numbers and manipulate them directly to perform calculations. This tactile, visible interaction fostered a grounded understanding of cause and effect, reinforcing logical reasoning and curiosity about the mechanics of the world.
 
-![[../../../Images/Critical Thinking and the Magic of Modern Technology-20241212155047625.gif|400]]
+![[Images/Critical Thinking and the Magic of Modern Technology-20241212155047625.gif|400]]
 *Abacus*
 ## The Rise of Abstract Technology
 

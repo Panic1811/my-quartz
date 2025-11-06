@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"tags":["Gamedesign"],"cssclasses":""}
 ---
 
 **Hero balance** is the practice of ensuring each character in a game is _fun to play_, _fair to play against_, and _viable in most contexts_. It’s not just about numbers—it’s about _player experience_, _perception_, and _design clarity_. Competitive games like **Overwatch**, **Valorant**, **League of Legends**, and **Marvel Rivals** use a blend of **data-driven** and **perception-driven** methods to evaluate hero balance.

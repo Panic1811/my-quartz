@@ -30,6 +30,7 @@
 >  |                                                                                                                                               | Folder                 |
 > | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 > | [[Knowledge/Politics/Political Ideology/Socialism vs Communism (Reddit)\|Socialism vs Communism (Reddit)]]                                 | Political Ideology     |
+> | [[Knowledge/Politics/Political Ideology/Democracy, Efficiency & Alternatives\|Democracy, Efficiency & Alternatives]]                       | Political Ideology     |
 > | [[Knowledge/Politics/US Government Overview/Additional Context and Details\|Additional Context and Details]]                               | US Government Overview |
 > | [[Knowledge/Politics/US Government Overview/Congressional Elections\|Congressional Elections]]                                             | US Government Overview |
 > | [[Knowledge/Politics/US Government Overview/Elections and Voting Systems\|Elections and Voting Systems]]                                   | US Government Overview |
@@ -67,18 +68,17 @@
 
 > [!philosophy]- Philosophy
 >
->  |                                                                                                                                                                                                                                                                        | Folder           |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-> | [[Knowledge/Philosophy/Ethics/Ethical Reflection Charity, Action, and Veganism\|Ethical Reflection Charity, Action, and Veganism]]                                                                                                                                  | Ethics           |
-> | [[Knowledge/Philosophy/Ethics/Ethics, Morality & Theories\|Ethics, Morality & Theories]]                                                                                                                                                                            | Ethics           |
-> | [[Knowledge/Philosophy/Life/Blaise Pascal - What Is Meaning (Gambling Analogy)\|Blaise Pascal - What Is Meaning (Gambling Analogy)]]                                                                                                                                | Life             |
-> | [[Knowledge/Philosophy/Life/Critical Thinking and the Magic of Modern Technology\|Critical Thinking and the Magic of Modern Technology]]                                                                                                                            | Life             |
-> | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] | Morality Flow    |
-> | [[Knowledge/Philosophy/Morality Flow/02 - Morality, Evolution, and Modern Consequences\|02 - Morality, Evolution, and Modern Consequences]]                                                                                                                         | Morality Flow    |
-> | [[Knowledge/Philosophy/Morality Flow/03 - Grading Moral Progress Wait—Is Change Even Real\|03 - Grading Moral Progress Wait—Is Change Even Real]]                                                                                                                   | Morality Flow    |
-> | [[Knowledge/Philosophy/Morality Flow/04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them\|04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them]]                                                                                         | Morality Flow    |
-> | [[Knowledge/Philosophy/Morality Flow/05 - Religion and Morality A Double-Edged Framework\|05 - Religion and Morality A Double-Edged Framework]]                                                                                                                     | Morality Flow    |
-> | [[Knowledge/Philosophy/Morality Flow/Morality General/Moral Development and External Influences\|Moral Development and External Influences]]                                                                                                                        | Morality General |
+>  |                                                                                                                                                                                                                                                                        | Folder        |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+> | [[Knowledge/Philosophy/Ethics/Ethical Reflection Charity, Action, and Veganism\|Ethical Reflection Charity, Action, and Veganism]]                                                                                                                                  | Ethics        |
+> | [[Knowledge/Philosophy/Ethics/Ethics, Morality & Theories\|Ethics, Morality & Theories]]                                                                                                                                                                            | Ethics        |
+> | [[Knowledge/Philosophy/Life/Blaise Pascal - What Is Meaning (Gambling Analogy)\|Blaise Pascal - What Is Meaning (Gambling Analogy)]]                                                                                                                                | Life          |
+> | [[Knowledge/Philosophy/Life/Critical Thinking and the Magic of Modern Technology\|Critical Thinking and the Magic of Modern Technology]]                                                                                                                            | Life          |
+> | [[Knowledge/Philosophy/Morality Flow/01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)\|01 - Morality Shaped by Systemic Change, Socialization, and Connectivity (Factory Farming + Slavery + Fitrah)]] | Morality Flow |
+> | [[Knowledge/Philosophy/Morality Flow/02 - Morality, Evolution, and Modern Consequences\|02 - Morality, Evolution, and Modern Consequences]]                                                                                                                         | Morality Flow |
+> | [[Knowledge/Philosophy/Morality Flow/03 - Grading Moral Progress Wait—Is Change Even Real\|03 - Grading Moral Progress Wait—Is Change Even Real]]                                                                                                                   | Morality Flow |
+> | [[Knowledge/Philosophy/Morality Flow/04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them\|04 - Are Moral Facts Real, Even If We Can’t Physically Prove Them]]                                                                                         | Morality Flow |
+> | [[Knowledge/Philosophy/Morality Flow/05 - Religion and Morality A Double-Edged Framework\|05 - Religion and Morality A Double-Edged Framework]]                                                                                                                     | Morality Flow |
 > 
 
 > [!psychology]- Psychology
@@ -91,6 +91,7 @@
 >[!General]- Game Design
 > |                                                                                                                                                                             | Folder      |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-> | [[Knowledge/Game Design/Perceived Counterplay and Actual Counterplay Affect Player Frustration\|Perceived Counterplay and Actual Counterplay Affect Player Frustration]] | Game Design |
+> | [[Knowledge/Game Design/Advanced Game Design Concepts\|Advanced Game Design Concepts]]                                                                                   | Game Design |
 > | [[Knowledge/Game Design/Hero Balance in Competitive Games\|Hero Balance in Competitive Games]]                                                                           | Game Design |
+> | [[Knowledge/Game Design/Perceived Counterplay and Actual Counterplay Affect Player Frustration\|Perceived Counterplay and Actual Counterplay Affect Player Frustration]] | Game Design |
 > 

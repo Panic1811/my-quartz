@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"tags":["Gamedesign"],"cssclasses":""}
 ---
 
 ### **Affordance**
@@ -14,7 +14,6 @@
 **Example (Game/Scenario):** In _League of Legends_, teams may keep playing scaling comps even after nerfs or when enemy team drafts early aggression — out of habit or comfort, not logic.
 
 ---
-
 ### **Unpunished Power**
 
 **Definition:** A situation where a character or strategy is only strong because opponents fail to counter it, not because it’s inherently overpowered.  
@@ -75,3 +74,18 @@
 
 **Definition:** When a player feels like they have no meaningful choices or impact due to crowd control, oppressive zoning, or overly dominant mechanics.  
 **Example:** Getting permastunned in _League_ or silenced/chained in _Dota 2_ — the fight is happening, but you're just watching.
+
+--- 
+### Meta
+
+It's a social and strategic phenomenon, not a math truth.
+
+A character/strat is "meta" when:
+
+It is prevalent in competitive or high-level play
+
+It has a high win rate or pick rate
+
+The community recognizes it as dominant or necessary
+
+It often warps the game around it (forces mirrors, bans, counters, etc.)

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"tags":["Music"],"cssclasses":""}
 ---
 
 ## 🎵 Melody Basics – Super Simple

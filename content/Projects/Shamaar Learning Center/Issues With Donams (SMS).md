@@ -78,11 +78,11 @@ Exam Offline → Exam Reports → Student Progress Report → Select Student
 
 1. When HOD is cross checking student's progress report, if there are error's in the exam report view, the HOD cannot manually edit this report, it requires the teacher (role) to do so (work around being the HOD logs in as the teacher and does it). 
    
-   ![[../../Images/Issues With Donams (SMS) - Shamaar-20241206024253493.png]]
+   ![[Images/Issues With Donams (SMS) - Shamaar-20241206024253493.png]]
 
 2. From HOD POV: After requesting Donams, she can now manually edit the total attendance in the report view (working days & no of days present per term) in the Student Progress Report. Ideally this should be automated, however, they were doing manual attendance between April to October, and then in October started using Donams - so there is missing data. However, its not even automatically updating for the data already present in Donams. *Terms defined in Exam Offline>Class Terms*
 
-   ![[../../Images/Issues With Donams (SMS) - Shamaar-20241206024551168.png|594]]
+   ![[Images/Issues With Donams (SMS) - Shamaar-20241206024551168.png|594]]
 
 **3. What Donams CS Has Said:**
 
@@ -94,7 +94,7 @@ I believe have not spoken to Donams regarding the manual entry for the exams. <m
 > 	- HOD needs Exam Offline>Mark Entry role permission?
 > 	- Donams needs to include manual entry in student progress view for exam results, as they did for attendance. 
 > 	  
-> 	  ![[../../Images/Issues With Donams (SMS) - Shamaar-20241206025449167.png]]
+> 	  ![[Images/Issues With Donams (SMS) - Shamaar-20241206025449167.png]]
 
 ---
 ### 2. Gleny (HR)
@@ -146,7 +146,7 @@ Priority:
 >1. We found a module feature that was disabled (Import Old Fees). We need to test importing old fees template to see if it works. *Fee Payments → Import old fees*. How do the field's work, can we add more? What format required? ❓
 >2. *Fee Payments → Fee Reports → Collection Amount + Other Reports* We found these report shows the data similar to what we track on the excel. However, having a custom export CSV feature where we can chose what all fields to export would be good to have (Similar to exporting Student Information, reference below:) ❓
 >   
-> ![[../../Images/Issues With Donams (SMS) - Shamaar-20241206033917671.png]]
+> ![[Images/Issues With Donams (SMS) - Shamaar-20241206033917671.png]]
 
 ---
 ### 4. Tina (Admissions Officer)
@@ -230,7 +230,7 @@ If a student joins, part of the registration fees the parents pay includes a stu
 > 	- HOD needs Exam Offline>Mark Entry role permission?
 > 	- Donams needs to include manual entry in student progress view for exam results, as they did for attendance. 
 > 	  
-> 	  ![[../../Images/Issues With Donams (SMS) - Shamaar-20241206025449167.png]]
+> 	  ![[Images/Issues With Donams (SMS) - Shamaar-20241206025449167.png]]
 
 ### 2. Some Extra Questions For Donams CS
 

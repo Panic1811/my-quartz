@@ -1,8 +1,6 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"tags":["Gamedesign"],"cssclasses":""}
 ---
-
-
 
 ## 1. Introduction & Context
 - **Speaker**: Riot August, Lead Assassin Designer for *League of Legends* (LoL).
