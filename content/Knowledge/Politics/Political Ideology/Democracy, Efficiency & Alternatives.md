@@ -13,7 +13,7 @@
     - Many are **apathetic** — basic needs are met, politics feels distant.
     - Many are **misinformed** — swayed by emotion, tribalism, or media spin.
       
-- Plato warned democracy can decay into **populism → tyranny**, as people choose charisma over competence.
+- [[Knowledge/Politics/Political Ideology/Plato’s Critique of Democracy]] warned democracy can decay into **populism → tyranny**, as people choose charisma over competence.
 ---
 ## 2. Why Companies Don’t Use Democracy
 
