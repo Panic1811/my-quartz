@@ -1,6 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import path from "path"
-
 import style from "../styles/listPage.scss"
 import { byDateAndAlphabetical, PageList, SortFn } from "../PageList"
 import { simplifySlug, joinSegments, FullSlug } from "../../util/path"
@@ -24,13 +23,12 @@ const defaultOptions: FolderContentOptions = {
 
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
-
+  
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
     const folderSlug = simplifySlug(fileData.slug!)
     const folderParts = folderSlug.split(path.posix.sep)
     const isIndexPage = folderSlug.endsWith("index")
-
     const allPagesInFolder: QuartzPluginData[] = []
     const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
 
@@ -70,8 +68,11 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       }
     })
 
-    const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
+    const cssClasses: string[] = Array.isArray(fileData.frontmatter?.cssclasses) 
+      ? fileData.frontmatter.cssclasses 
+      : []
     const classes = cssClasses.join(" ")
+
     const listProps = {
       ...props,
       sort: options.sort,
