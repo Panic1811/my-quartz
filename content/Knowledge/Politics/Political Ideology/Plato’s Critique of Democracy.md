@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["politics"],"cssclasses":""}
+{"publish":true,"cssclasses":""}
 ---
 
 ## 🧠 Plato’s Critique of Democracy
@@ -13,11 +13,13 @@ That event deeply disillusioned him. He saw democracy not as enlightened self-ru
 
 ### 2. **Plato’s “Cycle of Regimes”**
 
-In _The Republic_ (Book VIII), Plato describes how societies naturally evolve through a **degenerative cycle** of political systems:
+In _The Republic_ (Book VIII), Plato describes how societies naturally evolve through a **degenerative cycle** of political systems: 
+
+Important to remember, these arent the conventional definitions but what he defined them as. 
 
 1. **Aristocracy (Rule of the wise)** — the ideal state, ruled by philosopher-kings who love wisdom and justice.
     
-2. **Timocracy (Rule of the honorable)** — rule by warriors and those seeking honor and reputation.
+2. [[Dictionary/Politics/Timocracy]] **(Rule of the honorable)** — rule by warriors and those seeking honor and reputation.
     
 3. **Oligarchy (Rule of the rich)** — power concentrated in the hands of the wealthy.
     
