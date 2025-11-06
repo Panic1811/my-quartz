@@ -68,9 +68,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       }
     })
 
-    const cssClasses: string[] = Array.isArray(fileData.frontmatter?.cssclasses) 
-      ? fileData.frontmatter.cssclasses 
-      : []
+    const cssclasses = fileData.frontmatter?.cssclasses ?? []
+    const cssClasses: string[] = Array.isArray(cssclasses) ? cssclasses : [cssclasses]
     const classes = cssClasses.join(" ")
 
     const listProps = {
