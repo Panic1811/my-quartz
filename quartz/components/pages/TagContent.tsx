@@ -36,7 +36,8 @@ export default ((opts?: Partial<TagContentOptions>) => {
       (tree as Root).children.length === 0
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
-    const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
+    const cssclasses = fileData.frontmatter?.cssclasses ?? []
+    const cssClasses: string[] = Array.isArray(cssclasses) ? cssclasses : [cssclasses]
     const classes = cssClasses.join(" ")
     if (tag === "/") {
       const tags = [
