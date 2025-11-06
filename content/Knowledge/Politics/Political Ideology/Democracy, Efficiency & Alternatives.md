@@ -143,12 +143,12 @@
 ---
 ## 8. Summary
 
-|System|Strengths|Weaknesses|
-|---|---|---|
-|**Democracy**|Legitimate, adaptable, inclusive|Slow, populist, short-term focused|
-|**Authoritarianism**|Fast, long-term, decisive|Corruption, oppression, no correction|
-|**Epistocracy**|Informed decisions|Elitism, exclusion|
-|**Deliberative Democracy**|Balanced, evidence-based|Hard to scale, complex|
+| System                     | Strengths                        | Weaknesses                            |
+| -------------------------- | -------------------------------- | ------------------------------------- |
+| **Democracy**              | Legitimate, adaptable, inclusive | Slow, populist, short-term focused    |
+| **Authoritarianism**       | Fast, long-term, decisive        | Corruption, oppression, no correction |
+| **[[Dictionary/Politics/Epistocracy]]**        | Informed decisions               | Elitism, exclusion                    |
+| [[Dictionary/Politics/Deliberative Democracy]] | Balanced, evidence-based         | Hard to scale, complex                |
 
 ---
 
