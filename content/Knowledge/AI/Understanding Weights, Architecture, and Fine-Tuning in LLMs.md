@@ -4,13 +4,10 @@
 
 ## **1. Architecture vs Weights**
 
-| Term | Definition | Analogy |
-|---|---|---|
-| **Architecture** | Blueprint or design of the model; defines layers, connections, and data flow | Building blueprint: how floors and rooms connect |
-| **Weights** | Learned numeric parameters controlling neuron influence | Volume knobs on each musician, sheet music telling them which notes to emphasize |
-
----
-
+| Term             | Definition                                                                   | Analogy                                                                          |
+| ---------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Architecture** | Blueprint or design of the model; defines layers, connections, and data flow | Building blueprint: how floors and rooms connect                                 |
+| **Weights**      | Learned numeric parameters controlling neuron influence                      | Volume knobs on each musician, sheet music telling them which notes to emphasize |
 ## **2. How They Work Together**
 
 ```mermaid
