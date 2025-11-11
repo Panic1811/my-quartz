@@ -78,7 +78,7 @@ url: "https://www.youtube.com/watch?v=IDdWnJWlUhc"
 3. **React to Death Mark**: Zed’s ultimate casts a visible marker on the target; you have ~2.5 seconds to:
    - Use crowd control (stuns/snares) to interrupt the ultimate’s damage portion.
    - Dash away or use defensive summoner spells (e.g., Flash, Barrier).
-   - Activate shields/heals (e.g., from teammates or Glyphs).
+   - Activate shields/heals (e.g., from teammates or items).
 
 #### Why players **don’t** frequently use it:
 - **Tunnel vision**: Under the pressure of mid-lane skirmishes, many miss the Death Mark cast or shadow positioning.

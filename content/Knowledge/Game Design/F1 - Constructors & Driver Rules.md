@@ -75,7 +75,7 @@ Drivers — or in any domain, _users_ — are fantastic at identifying **pain po
 
 This reminds me of a principle from game development ([20 years 20 lessons by Mark Rosewater ,lead designer of Magic the Gathering](https://magic.wizards.com/en/articles/archive/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30))
 
-> “Players are great at identifying problems — but terrible at solving them.”
+> “**Players are great at identifying problems — but terrible at solving them.**”
 
 And that’s key.
 
