@@ -13,7 +13,6 @@
   - China is aging **before it is fully rich**, creating long-term structural economic challenges.
 
 ---
-
 ## **2. Demographic Challenge**
 
 - Worker-to-retiree ratio is declining:
