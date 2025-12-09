@@ -39,6 +39,3 @@ After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft
 # My Thoughts
 
 Genuinely enjoyed the series, very homely, almost a better version of "friends" for me in that regard. While the later seasons did fall off a bit, it was fun watching the journey of the characters through the seasons, and actually funny at times. Made it seem like you're apart of their couch.  Great acting and chemistry, allowed each actor to really shine - > heavy sense of improv. 
-
-
-Green Light by Lorde
