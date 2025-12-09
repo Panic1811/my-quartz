@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 # Namor
 
 ![Namor](https://r.res.easebar.com/pic/20241128/a552c2e0-0d9b-4fa1-a939-4154e7b09e85.png)

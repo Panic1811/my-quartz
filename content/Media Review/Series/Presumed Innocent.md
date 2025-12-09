@@ -1,6 +1,7 @@
 ---
-{"type":["series"],"country":"United States","title":"Presumed Innocent","year":"2024","director":"N/A","actors":["Jake Gyllenhaal, Ruth Negga, Bill Camp"],"genre":["Crime, Drama, Mystery"],"length":"1","seen with":"Myself","year watched":"2024","rating":"8.2","location":"Dubai","trailer_embed":"{{YoutubeEmbed}}","poster":"https://m.media-amazon.com/images/M/MV5BNDk1MWM3NmItZmNjZS00ZmZkLTk1ZDAtZjFiN2FiZjczNmZhXkEyXkFqcGc@._V1_SX300.jpg","Box_office":"undefined","IMDB":"7.7","publish":true,"seen":true,"Creation Date":"2024-12-11 16:06","PassFrontmatter":true}
+{"publish":true,"title":"Presumed Innocent","cssclasses":""}
 ---
+
 
 # 📺 **Presumed Innocent** - *1 seasons*
 *Creation Date: 2024-12-11 16:06*

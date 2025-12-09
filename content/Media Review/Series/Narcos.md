@@ -1,6 +1,7 @@
 ---
-{"type":["series"],"country":"United States, Colombia","title":"Narcos","year":"2015–2017","director":"N/A","actors":["Pedro Pascal, Wagner Moura, Boyd Holbrook"],"genre":["Biography, Crime, Drama"],"length":"3","seen with":"Myself","year watched":"2024","rating":"8.3","location":"Dubai","poster":"https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_SX300.jpg","Box_office":"undefined","IMDB":"8.7","publish":true,"seen":true,"Creation Date":"2024-12-12 05:01","PassFrontmatter":true}
+{"publish":true,"title":"Narcos","cssclasses":""}
 ---
+
 
 # 📺 **Narcos** - *3 seasons*
 *Creation Date: 2024-12-12 05:01*

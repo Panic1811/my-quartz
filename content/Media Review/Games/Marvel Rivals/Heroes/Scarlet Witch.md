@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 # Scarlet Witch
 
 ![Scarlet Witch](https://r.res.easebar.com/pic/20241120/2b9ba250-0725-4a4b-8af8-66a6626fc226.png)
