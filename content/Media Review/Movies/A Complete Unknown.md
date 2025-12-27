@@ -35,3 +35,4 @@ In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guit
 5. **Overall:** 
 	- (:Story + :Acting + :Cinematography + :Music)/4 = 
 
+Pretty decent movie, well acted, gave exposure into Dylans life but if not already inclined in his music taste, it wasn't that interesting. Dylan was crowned for his lyrics but it was difficult to decipher what he was actually saying. My dad was saying his lyrics meant a lot, to convey the feelings of the people at that time period in America → but they really didn't highlight or showcase this in the movie in any way. 

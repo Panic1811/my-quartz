@@ -31,6 +31,7 @@
 > | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 > | [[Knowledge/Politics/Political Ideology/Socialism vs Communism (Reddit)\|Socialism vs Communism (Reddit)]]                                 | Political Ideology     |
 > | [[Knowledge/Politics/Political Ideology/Democracy, Efficiency & Alternatives\|Democracy, Efficiency & Alternatives]]                       | Political Ideology     |
+> | [[Knowledge/Politics/Political Ideology/Plato’s Critique of Democracy\|Plato’s Critique of Democracy]]                                     | Political Ideology     |
 > | [[Knowledge/Politics/US Government Overview/Additional Context and Details\|Additional Context and Details]]                               | US Government Overview |
 > | [[Knowledge/Politics/US Government Overview/Congressional Elections\|Congressional Elections]]                                             | US Government Overview |
 > | [[Knowledge/Politics/US Government Overview/Elections and Voting Systems\|Elections and Voting Systems]]                                   | US Government Overview |
@@ -94,6 +95,7 @@
 > | [[Knowledge/Game Design/Advanced Game Design Concepts\|Advanced Game Design Concepts]]                                                                                   | Game Design |
 > | [[Knowledge/Game Design/Hero Balance in Competitive Games\|Hero Balance in Competitive Games]]                                                                           | Game Design |
 > | [[Knowledge/Game Design/Perceived Counterplay and Actual Counterplay Affect Player Frustration\|Perceived Counterplay and Actual Counterplay Affect Player Frustration]] | Game Design |
+> | [[Knowledge/Game Design/F1 - Constructors & Driver Rules\|F1 - Constructors & Driver Rules]]                                                                             | Game Design |
 > 
 
 >[!General]- Cinema
@@ -110,8 +112,24 @@
 > 
 
 >[!General]- AI
-> |                                              | Folder |
-> | -------------------------------------------- | ------ |
-> | [[Knowledge/AI/AI Acronyms\|AI Acronyms]] | AI     |
+> |                                                                                                                                                | Folder |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+> | [[Knowledge/AI/AI Acronyms\|AI Acronyms]]                                                                                                   | AI     |
+> | [[Knowledge/AI/Understanding Weights, Architecture, and Fine-Tuning in LLMs\|Understanding Weights, Architecture, and Fine-Tuning in LLMs]] | AI     |
+> | [[Knowledge/AI/China’s AI Strategy and Demographics\|China’s AI Strategy and Demographics]]                                                 | AI     |
+> | [[Knowledge/AI/Aurys - Pitch Q&A\|Aurys - Pitch Q&A]]                                                                                       | AI     |
+> | [[Knowledge/AI/Aurys - ASR Model Evaluation\|Aurys - ASR Model Evaluation]]                                                                 | AI     |
+> | [[Knowledge/AI/Cool Prompts\|Cool Prompts]]                                                                                                 | AI     |
+> | [[Knowledge/AI/AI Invention vs Discovery The Black Box Paradox\|AI Invention vs Discovery The Black Box Paradox]]                           | AI     |
+> | [[Knowledge/AI/The Transformer & The Black Box A Deep Dive\|The Transformer & The Black Box A Deep Dive]]                                   | AI     |
+> | [[Knowledge/AI/Aurys - Future Enhancements\|Aurys - Future Enhancements]]                                                                   | AI     |
+> | [[Knowledge/AI/Can AI Really Generate Knowledge\|Can AI Really Generate Knowledge]]                                                         | AI     |
+> | [[Knowledge/AI/How Distilled Models Actually Work (Dec 2025 SOTA)\|How Distilled Models Actually Work (Dec 2025 SOTA)]]                     | AI     |
 > 
 
+> [!general]- Personal
+>
+>  |                                                                      | Folder   |
+> | -------------------------------------------------------------------- | -------- |
+> | [[Knowledge/Personal/Why AI Is Empowering\|Why AI Is Empowering]] | Personal |
+> 

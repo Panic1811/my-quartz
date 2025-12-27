@@ -54,3 +54,34 @@
 ```
    Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood. Use a clean, minimalistic composition with a soft, solid-colored background. At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text). All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings. Square 1080x1080 dimension.
 ```
+
+8. Nano banana pro - json prompt
+```
+{
+ "subject": {
+ "main_character": "A photorealistic, living miniature man (Lilliputian size), not a plastic figure",
+ "attire": "Casual gardening clothes, blue jeans, white t-shirt",
+ "equipment": "A tiny, realistic red push-lawnmower"
+ },
+ "action": "The man is pushing the lawnmower over a giant human eyebrow, trimming the long eyebrow hairs as if mowing a lawn",
+ "setting": {
+ "location": "Extreme close-up macro view of a human forehead and closed eye",
+ "surface_details": "Giant-scale skin texture, visible pores, wrinkles, and coarse eyebrow hair"
+ },
+ "style": [
+ "Surreal conceptual photography",
+ "Hyper-realistic",
+ "Macro photography",
+ "Humorous",
+ "High contrast",
+ "Sharp focus"
+ ],
+ "technical_details": {
+ "lighting": "Hard, direct lighting mimicking sunlight to create distinct shadows on the skin",
+ "camera": "Macro lens, shallow depth of field, focus on the miniature man and the eyebrow",
+ "resolution": "8k, ultra-detailed"
+ }
+}
+```
+
+![[image-2.png]]

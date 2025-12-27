@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"cssclasses":"cards cards-1-1 table-max cards-cover"}
 ---
 
 # AI Acronyms
