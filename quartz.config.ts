@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "Plausible",
     },
-    baseUrl: "panic1811.github.io/my-quartz",
+    baseUrl: "vedantbali.com",
     ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
